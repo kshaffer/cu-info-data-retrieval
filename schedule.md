@@ -6,10 +6,13 @@
 
 General weekly schedule:
 
-**Tuesday** – submit previous week’s assignment; **clicker JiTT quiz at the beginning of class (counts for attendance)** about the assignment; review/discuss/clarify last assignment; introduce new topic and readings  
-**Thursday** – **clicker JiTT quiz at the beginning of class (counts for attendance)** on assigned readings; review quiz results; in‑class partner/small‑group work applying readings; introduce Colab notebook assignment; if time, begin the notebook in class  
+**Tuesday** – submit previous week’s assignment; **clicker quiz at the beginning of class (counts for attendance)** about the assignment; review/discuss/clarify last assignment; introduce new topic and readings 
+**Midweek homework** - reading assignment   
+**Thursday** – **clicker quiz at the beginning of class (counts for attendance)** on assigned readings; review quiz results and clarify difficulties revealed by quiz; in‑class partner/small‑group work applying readings; introduce Colab notebook assignment; if time, begin the notebook in class  
 **Weekend homework** – Colab notebook  
 **Following Tuesday** – submit notebooks; clicker quiz; review/clarify; introduce new topic and readings; etc.
+
+# UNIT 1: Relational Databases (MySQL)
 
 ## Week 1: Thursday, August 21
 

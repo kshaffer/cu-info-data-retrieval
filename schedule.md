@@ -1,4 +1,4 @@
-# Class Schedule (Revised)
+# Class Schedule
 
 *Please note that this schedule is subject to change. (And open to pull requests.) Class progress through early materials may warrant a change in the schedule or assigned work.*
 
@@ -60,10 +60,9 @@ General weekly schedule:
 
 
 ### In class
-
-- **Clicker quiz at the start (attendance)** on Notebook 1 experience and outcomes.  
-- Review Notebook 1 results and common pitfalls (NULL logic, filter order, off‑by‑one with `LIMIT`).  
-- **Introduce new topic:** Aggregation + string/math functions; preview of all join types (INNER, LEFT, RIGHT, FULL OUTER).  
+- **Clicker quiz at the start (attendance)** on Notebook 1 experience and outcomes.
+- Review Notebook 1 results and common pitfalls (NULL logic, filter order, off‑by‑one with `LIMIT`).
+- **Introduce new topic:** Aggregation + string/math functions; preview of **core joins (INNER, LEFT)**.
 
 <br/>
 
@@ -71,10 +70,12 @@ General weekly schedule:
 
 ### Prep
 
-#### Primary reading
+#### R reading
 
-- _MySQL Tutorial_ (PDF): Aggregates & GROUP BY — **pp. 13–18** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
-- _Master SQL in 16 Pages_ — **pp. 6–8** (COUNT, SUM/AVG, MIN/MAX, GROUP BY, HAVING) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+- _MySQL Tutorial_ (PDF): Aggregates & GROUP BY — **pp. 13–18** ([mysql-tutorial.pdf](mysql-tutorial.pdf)).  
+- _Master SQL in 16 Pages_ — **pp. 6–8** (COUNT, SUM/AVG, MIN/MAX, GROUP BY, HAVING) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf)).  
+- _MySQL Tutorial_ (PDF): Multi‑table queries (INNER/LEFT only) — **pp. 23–25** ([mysql-tutorial.pdf](mysql-tutorial.pdf)).  
+- (Micro‑handout) **NULLs & COALESCE/IFNULL** (1 page; on LMS).
 
 #### Official MySQL docs
 
@@ -107,9 +108,9 @@ General weekly schedule:
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 2.  
-- Review Notebook 2 results: join selectivity, grouping pitfalls (non‑aggregated columns), and `HAVING` vs `WHERE`.  
-- **Introduce new topic:** Self-joins and advanced join patterns; CTEs (`WITH` clause) for cleaner complex queries; brief intro to subqueries.  
+- **Clicker quiz at the start (attendance)** on Notebook 2.
+- Review Notebook 2 results: join selectivity, grouping pitfalls (non‑aggregated columns), and `HAVING` vs `WHERE`.
+- **Introduce new topic:** **Subqueries first** (uncorrelated → correlated), compare to joins; brief intro to **CTEs (`WITH`)** as a refactor/readability tool.
 
 
 <br/>
@@ -137,10 +138,10 @@ General weekly schedule:
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on the readings.  
-- Quiz debrief: when to use CTEs vs subqueries vs joins; readability trade-offs.  
-- Small‑group refactors: rewrite a subquery as a CTE and as a join; compare approaches.  
-- **Notebook 3 released:** CTEs + basic subqueries + `UNION/UNION ALL` (focus on practical applications).  
+- **Clicker quiz at the start (attendance)** on the readings.
+- Quiz debrief: when to use CTEs vs subqueries vs joins; readability trade‑offs.
+- Small‑group refactors: rewrite a subquery as a CTE and as a join; compare approaches.
+- **Notebook 3 released:** **Subqueries + CTEs** + `UNION/UNION ALL` (focus on practical applications).
 - If time: begin Notebook 3 in class.
 
 
@@ -189,14 +190,15 @@ General weekly schedule:
 #### Project prep
  
 - Decide whether you prefer **GUI (Workbench/Beekeeper)** or **terminal** tooling, local or cloud for your project build.
+- Install MySQL in a platform of your choice (local or cloud).
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on the readings.  
-- Quiz debrief: common design errors, normalization principles, MySQL data type choices.  
-- Install session: **local or cloud MySQL** (**guided checklist**).  
-- Team studio: draft initial ER diagram; validate normalization; translate to `CREATE TABLE` statements.  
-- **DML mini‑lab:** `INSERT`, `UPDATE`, `DELETE`; quick demo of `LOAD DATA` and GUI for bulk CSV.  
+- **Clicker quiz at the start (attendance)** on the readings.
+- Quiz debrief: common design errors, normalization principles, MySQL data type choices.
+- **Connection verification:** confirm your **pre‑class install** (local or cloud) using a short checklist; resolve blockers quickly.
+- Team studio: draft initial ER diagram; validate normalization; translate to `CREATE TABLE` statements.
+- **DML mini‑lab:** `INSERT`, `UPDATE`, `DELETE`; quick demo of `LOAD DATA` for bulk CSV **(if time)**.
 - **Notebook 4 released:** DDL + DML on your own instance (start in class if time).
 
 
@@ -246,7 +248,7 @@ General weekly schedule:
 - `EXPLAIN` walkthroughs on representative queries from your projects.  
 - Peer review: query plan round‑robin—diagnose and improve slow queries.  
 - Work session with instructor roaming; finalize mid‑term checklist.  
-- **Mid‑term submission portal opens** (accepts until Tue, Sep 30, 10:00 am).
+- **Mid‑term submission portal opens** (accepts until Tue, Sep 30, 10:00 am).
 
 
 <br/>

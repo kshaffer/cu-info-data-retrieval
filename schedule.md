@@ -18,8 +18,7 @@ General weekly schedule:
 
 ### Prep
 
-- None (first day). Bring laptop with Google account access.  
-- Ensure you can open the course Colab template (link on LMS).
+- None (first day). Bring laptop.  
 
 ### In class
 
@@ -27,7 +26,6 @@ General weekly schedule:
 - Introduction to SQL and MySQL.  
 - Colab warm‑up: connect to MySQL from Python (connector provided), run first `SELECT`.  
 - Query basics: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`; basic pattern matching with `LIKE` and wildcards.  
-_- **Assign Reading for Tue:** Query fundamentals & filtering; `LIKE` patterns; result ordering._  
 - **Notebook 1 released:** “Getting Data Out.”
 
 <br/>
@@ -36,15 +34,36 @@ _- **Assign Reading for Tue:** Query fundamentals & filtering; `LIKE` patterns; 
 
 ### Prep
 
+#### Reading
+
+- _MySQL Tutorial_ (PDF): Intro + Basic Queries — **pp. 1–12** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
+- _Master SQL in 16 Pages_ — **pp. 1–5** (SELECT, WHERE, ORDER BY, LIMIT, LIKE) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+- (Optional quick reference) _SQL Cheat Sheet_ — **pp. 1–2** ([SQL-Cheat-Sheet.pdf](SQL-Cheat-Sheet.pdf))
+
+#### Official MySQL docs
+
+- SELECT statement (overview) — [dev.mysql.com/doc/en/select.html](https://dev.mysql.com/doc/en/select.html)
+- Pattern matching (LIKE) — [dev.mysql.com/doc/en/pattern-matching.html](https://dev.mysql.com/doc/en/pattern-matching.html)
+- String functions (reference) — [dev.mysql.com/doc/en/string-functions.html](https://dev.mysql.com/doc/en/string-functions.html)
+
+#### Short videos (optional)
+
+- SELECT (intro) — “MySQL Tutorial for Beginners 8: Using SELECT” ([YouTube](https://www.youtube.com/watch?v=ZqlSPEIHBPg))
+- WHERE — “MySQL WHERE Clause” ([YouTube](https://www.youtube.com/watch?v=cfY9BkYdAh0))
+- ORDER BY — “MySQL ORDER BY Clause” ([YouTube](https://www.youtube.com/watch?v=L7QXspb2NHk))
+- LIMIT — “MySQL LIMIT Clause” ([YouTube](https://www.youtube.com/watch?v=WEnavAPW4dk))
+- LIKE — “MySQL LIKE Operator” ([YouTube](https://www.youtube.com/watch?v=wubZMlkgxCM))
+
+#### Assignment
+
 - Submit **Notebook 1** by the start of class.  
-- Skim the example schema diagrams for our sample databases (**_LINK_**).
+
 
 ### In class
 
 - **Clicker quiz at the start (attendance)** on Notebook 1 experience and outcomes.  
 - Review Notebook 1 results and common pitfalls (NULL logic, filter order, off‑by‑one with `LIMIT`).  
 - **Introduce new topic:** Aggregation + string/math functions; preview of core joins.  
-__- **Assign Reading for Thu:** `GROUP BY`, `HAVING`; `COUNT/SUM/AVG`, `MIN/MAX`; basic string functions (`UPPER/LOWER/CONCAT/SUBSTRING`), arithmetic.__
 
 <br/>
 
@@ -52,7 +71,22 @@ __- **Assign Reading for Thu:** `GROUP BY`, `HAVING`; `COUNT/SUM/AVG`, `MIN/MAX`
 
 ### Prep
 
-- Complete reading on aggregation, string, and math functions.
+#### Primary reading
+
+- _MySQL Tutorial_ (PDF): Aggregates & GROUP BY — **pp. 13–18** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
+- _Master SQL in 16 Pages_ — **pp. 6–8** (COUNT, SUM/AVG, MIN/MAX, GROUP BY, HAVING) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+
+#### Official MySQL docs
+
+- Aggregate functions (overview) — [dev.mysql.com/doc/refman/8.4/en/aggregate-functions.html](https://dev.mysql.com/doc/refman/8.4/en/aggregate-functions.html)
+- MySQL handling of `GROUP BY` — [dev.mysql.com/doc/refman/8.4/en/group-by-handling.html](https://dev.mysql.com/doc/refman/8.4/en/group-by-handling.html)
+- GROUP BY modifiers (`WITH ROLLUP`) — [dev.mysql.com/doc/refman/8.4/en/group-by-modifiers.html](https://dev.mysql.com/doc/refman/8.4/en/group-by-modifiers.html)
+
+#### Short videos
+
+- Aggregate functions — “More on Aggregate Functions” ([YouTube](https://www.youtube.com/watch?v=0pfKXxB6aD8))
+- GROUP BY — concise refresher ([YouTube](https://www.youtube.com/watch?v=vYS-pqVSMiI))
+
 
 ### In class
 
@@ -76,7 +110,6 @@ _- **Notebook 2 released:** Aggregates + basic joins + string/math helpers._
 - **Clicker quiz at the start (attendance)** on Notebook 2.  
 - Review Notebook 2 results: join selectivity, grouping pitfalls (non‑aggregated columns), and `HAVING` vs `WHERE`.  
 - **Introduce new topic:** Subqueries (focus on uncorrelated first, then correlated); `UNION` vs `UNION ALL`; join vs subquery trade‑offs.  
-_- **Assign Reading for Thu:** Subquery patterns (IN, EXISTS, scalar subqueries), dedup vs append with `UNION`._
 
 
 <br/>
@@ -85,7 +118,22 @@ _- **Assign Reading for Thu:** Subquery patterns (IN, EXISTS, scalar subqueries)
 
 ### Prep
 
-- Complete subquery & set‑ops reading.
+#### Primary reading
+
+- _MySQL Tutorial_ (PDF): Subqueries (intro) — **pp. 19–22** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
+- _Master SQL in 16 Pages_ — **pp. 9–11** (subqueries + set ops) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+
+#### Official MySQL docs
+
+- Subqueries (all forms) — [dev.mysql.com/doc/mysql/en/subqueries.html](https://dev.mysql.com/doc/mysql/en/subqueries.html)
+- Set operations (UNION, INTERSECT, EXCEPT) — [dev.mysql.com/doc/refman/8.4/en/set-operations.html](https://dev.mysql.com/doc/refman/8.4/en/set-operations.html)
+- INTERSECT clause — [dev.mysql.com/doc/refman/8.4/en/intersect.html](https://dev.mysql.com/doc/refman/8.4/en/intersect.html)
+- EXCEPT clause — [dev.mysql.com/doc/refman/8.2/en/except.html](https://dev.mysql.com/doc/refman/8.2/en/except.html)
+
+#### Short videos
+
+- Subqueries — “Subqueries in MySQL | Intermediate MySQL” ([YouTube](https://www.youtube.com/watch?v=Vj6RqA_X-IE))
+- UNION — brief explainer (fallback if needed) ([YouTube](https://www.youtube.com/watch?v=5OdVJbNCSso&t=7042s)) — jump to the set-ops segment in the full course
 
 ### In class
 
@@ -103,7 +151,6 @@ _- **Assign Reading for Thu:** Subquery patterns (IN, EXISTS, scalar subqueries)
 ### Prep
 
 - Submit **Notebook 3** by the start of class.  
-_- Skim ER‑modeling primer (entities, attributes, relationships, 1NF–3NF) on LMS._
 
 ### In class
 
@@ -111,7 +158,6 @@ _- Skim ER‑modeling primer (entities, attributes, relationships, 1NF–3NF) on
 - Review Notebook 3: equivalence checks and performance notes.  
 _- **Introduce new topic:** ER modelling & schema design → DDL basics (`CREATE TABLE`, primary/foreign keys, constraints)._  
 - Mid‑term project brief released (requirements, rubric, deliverables, sample datasets).  
-_- **Assign Reading for Thu:** DDL & constraints guide; quick key/foreign‑key design._
 
 
 <br/>
@@ -120,8 +166,31 @@ _- **Assign Reading for Thu:** DDL & constraints guide; quick key/foreign‑key 
 
 ### Prep
 
-_- Complete DDL & constraints reading; optionally watch 10‑min video on key design._  
-_- Decide whether you prefer **GUI (Workbench/Beekeeper)** or **terminal** tooling, local or cloud for your project build._
+#### Primary reading
+
+- _MySQL Tutorial_ (PDF): Creating tables & basic DML — **pp. 31–40** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
+- _Master SQL in 16 Pages_ — **pp. 14–16** (CTEs vs. subqueries; DML quick ref) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+
+#### Official MySQL docs
+
+- CTEs (`WITH`) — [dev.mysql.com/doc/refman/8.4/en/with.html](https://dev.mysql.com/doc/refman/8.4/en/with.html)
+- CREATE TABLE — [dev.mysql.com/doc/refman/8.4/en/create-table.html](https://dev.mysql.com/doc/refman/8.4/en/create-table.html)
+- INSERT — [dev.mysql.com/doc/en/insert.html](https://dev.mysql.com/doc/en/insert.html)
+- UPDATE — [dev.mysql.com/doc/refman/8.4/en/update.html](https://dev.mysql.com/doc/refman/8.4/en/update.html)
+- DELETE — [dev.mysql.com/doc/en/delete.html](https://dev.mysql.com/doc/en/delete.html)
+- LOAD DATA — [dev.mysql.com/doc/en/load-data.html](https://dev.mysql.com/doc/en/load-data.html)
+ 
+#### Short videos
+
+- MySQL Workbench basics (official MySQL channel) — “MySQL Workbench Tutorial” ([YouTube](https://www.youtube.com/watch?v=X_umYKqKaF0))
+- (Optional) ProgrammingKnowledge: CREATE TABLE / INSERT / UPDATE / DELETE (pick 1–2 as needed)
+  - CREATE TABLE ([YouTube](https://www.youtube.com/watch?v=6NVnZrsXH8A))
+  - UPDATE ([YouTube](https://www.youtube.com/watch?v=v3RIEfBbqIw))
+  - DELETE ([YouTube](https://www.youtube.com/watch?v=_VKhe_nuTCw))
+
+#### Project prep
+ 
+- Decide whether you prefer **GUI (Workbench/Beekeeper)** or **terminal** tooling, local or cloud for your project build._
 
 ### In class
 
@@ -156,7 +225,21 @@ _- **Assign Reading for Thu:** short tuning case study + `EXPLAIN` primer._
 
 ### Prep
 
-- Complete tuning case study reading.
+#### Primary reading
+
+- _MySQL Tutorial_ (PDF): Multi-table queries & joins — **pp. 23–30** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
+- _Master SQL in 16 Pages_ — **pp. 12–13** (JOINs quick reference) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+
+#### Short videos
+
+- Joins overview (compact, MySQL-focused) — ([YouTube](https://www.youtube.com/watch?v=G3lJAxg1cy8))
+- (Optional, performance/plan intro) Percona: “Introduction into MySQL Query Tuning” — includes EXPLAIN walkthrough ([Video](https://www.percona.com/resources/videos/introduction-mysql-query-tuning-for-devops))
+
+#### Official MySQL docs
+
+- SELECT + JOIN clause (syntax & examples) — [dev.mysql.com/doc/en/select.html](https://dev.mysql.com/doc/en/select.html)
+- EXPLAIN (plan inspection) — [dev.mysql.com/doc/en/explain.html](https://dev.mysql.com/doc/en/explain.html)
+- EXPLAIN output formats — [dev.mysql.com/doc/en/explain-output.html](https://dev.mysql.com/doc/en/explain-output.html)
 
 ### In class
 

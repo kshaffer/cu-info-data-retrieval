@@ -91,11 +91,11 @@ General weekly schedule:
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on the readings.  
-- Quiz debrief and practice examples, as necessary.  
-- Partner challenge: explore descriptive questions on the sample DB using `GROUP BY` and `HAVING`.  
-- Introduce **INNER**, **LEFT**, **RIGHT JOIN**, and **FULL OUTER JOIN** on two tables; demo join‑on‑key vs join‑on‑expression.  
-- **Notebook 2 released:** Aggregates + comprehensive joins + string/math helpers.  
+- **Clicker quiz at the start (attendance)** on the readings.
+- Quiz debrief and practice examples, as necessary.
+- Partner challenge: explore descriptive questions on the sample DB using `GROUP BY` and `HAVING`.
+- Introduce **INNER** and **LEFT JOIN** on two tables; briefly note **RIGHT** as read‑only and **FULL OUTER** as a conceptual workaround (LEFT/RIGHT + `UNION`).
+- **Notebook 2 released:** Aggregates + **core joins (INNER/LEFT)** + string/math helpers.
 - If time: begin Notebook 2 in class.
 
 <br/>

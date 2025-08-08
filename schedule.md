@@ -1,4 +1,4 @@
-# Class Schedule
+# Class Schedule (Revised)
 
 *Please note that this schedule is subject to change. (And open to pull requests.) Class progress through early materials may warrant a change in the schedule or assigned work.*
 
@@ -6,7 +6,7 @@
 
 General weekly schedule:
 
-**Tuesday** – submit previous week’s assignment; **clicker quiz at the beginning of class (counts for attendance)** about the assignment; review/discuss/clarify last assignment; introduce new topic and readings 
+**Tuesday** – submit previous week's assignment; **clicker quiz at the beginning of class (counts for attendance)** about the assignment; review/discuss/clarify last assignment; introduce new topic and readings 
 **Midweek homework** - reading assignment   
 **Thursday** – **clicker quiz at the beginning of class (counts for attendance)** on assigned readings; review quiz results and clarify difficulties revealed by quiz; in‑class partner/small‑group work applying readings; introduce Colab notebook assignment; if time, begin the notebook in class  
 **Weekend homework** – Colab notebook  
@@ -26,7 +26,7 @@ General weekly schedule:
 - Introduction to SQL and MySQL.  
 - Colab warm‑up: connect to MySQL from Python (connector provided), run first `SELECT`.  
 - Query basics: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`; basic pattern matching with `LIKE` and wildcards.  
-- **Notebook 1 released:** “Getting Data Out.”
+- **Notebook 1 released:** "Getting Data Out."
 
 <br/>
 
@@ -48,22 +48,22 @@ General weekly schedule:
 
 #### Short videos (optional)
 
-- SELECT (intro) — “MySQL Tutorial for Beginners 8: Using SELECT” ([YouTube](https://www.youtube.com/watch?v=ZqlSPEIHBPg))
-- WHERE — “MySQL WHERE Clause” ([YouTube](https://www.youtube.com/watch?v=cfY9BkYdAh0))
-- ORDER BY — “MySQL ORDER BY Clause” ([YouTube](https://www.youtube.com/watch?v=L7QXspb2NHk))
-- LIMIT — “MySQL LIMIT Clause” ([YouTube](https://www.youtube.com/watch?v=WEnavAPW4dk))
-- LIKE — “MySQL LIKE Operator” ([YouTube](https://www.youtube.com/watch?v=wubZMlkgxCM))
+- SELECT (intro) — "MySQL Tutorial for Beginners 8: Using SELECT" ([YouTube](https://www.youtube.com/watch?v=ZqlSPEIHBPg))
+- WHERE — "MySQL WHERE Clause" ([YouTube](https://www.youtube.com/watch?v=cfY9BkYdAh0))
+- ORDER BY — "MySQL ORDER BY Clause" ([YouTube](https://www.youtube.com/watch?v=L7QXspb2NHk))
+- LIMIT — "MySQL LIMIT Clause" ([YouTube](https://www.youtube.com/watch?v=WEnavAPW4dk))
+- LIKE — "MySQL LIKE Operator" ([YouTube](https://www.youtube.com/watch?v=wubZMlkgxCM))
 
 #### Assignment
 
-- Submit **Notebook 1** by the start of class.  
+- Submit **Notebook 1** by the start of class.  
 
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 1 experience and outcomes.  
-- Review Notebook 1 results and common pitfalls (NULL logic, filter order, off‑by‑one with `LIMIT`).  
-- **Introduce new topic:** Aggregation + string/math functions; preview of core joins.  
+- **Clicker quiz at the start (attendance)** on Notebook 1 experience and outcomes.  
+- Review Notebook 1 results and common pitfalls (NULL logic, filter order, off‑by‑one with `LIMIT`).  
+- **Introduce new topic:** Aggregation + string/math functions; preview of all join types (INNER, LEFT, RIGHT, FULL OUTER).  
 
 <br/>
 
@@ -84,7 +84,7 @@ General weekly schedule:
 
 #### Short videos
 
-- Aggregate functions — “More on Aggregate Functions” ([YouTube](https://www.youtube.com/watch?v=0pfKXxB6aD8))
+- Aggregate functions — "More on Aggregate Functions" ([YouTube](https://www.youtube.com/watch?v=0pfKXxB6aD8))
 - GROUP BY — concise refresher ([YouTube](https://www.youtube.com/watch?v=vYS-pqVSMiI))
 
 
@@ -92,10 +92,10 @@ General weekly schedule:
 
 - **Clicker quiz at the start (attendance)** on the readings.  
 - Quiz debrief and practice examples, as necessary.  
-_- Partner challenge: explore descriptive questions on the sample DB using `GROUP BY` and `HAVING`._  
-- Introduce **INNER** and **LEFT JOIN** on two tables; demo join‑on‑key vs join‑on‑expression.  
-_- **Notebook 2 released:** Aggregates + basic joins + string/math helpers._  
-- If time: begin Notebook 2 in class.
+- Partner challenge: explore descriptive questions on the sample DB using `GROUP BY` and `HAVING`.  
+- Introduce **INNER**, **LEFT**, **RIGHT JOIN**, and **FULL OUTER JOIN** on two tables; demo join‑on‑key vs join‑on‑expression.  
+- **Notebook 2 released:** Aggregates + comprehensive joins + string/math helpers.  
+- If time: begin Notebook 2 in class.
 
 <br/>
 
@@ -103,13 +103,13 @@ _- **Notebook 2 released:** Aggregates + basic joins + string/math helpers._
 
 ### Prep
 
-- Submit **Notebook 2** by the start of class.
+- Submit **Notebook 2** by the start of class.
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 2.  
-- Review Notebook 2 results: join selectivity, grouping pitfalls (non‑aggregated columns), and `HAVING` vs `WHERE`.  
-- **Introduce new topic:** Subqueries (focus on uncorrelated first, then correlated); `UNION` vs `UNION ALL`; join vs subquery trade‑offs.  
+- **Clicker quiz at the start (attendance)** on Notebook 2.  
+- Review Notebook 2 results: join selectivity, grouping pitfalls (non‑aggregated columns), and `HAVING` vs `WHERE`.  
+- **Introduce new topic:** Self-joins and advanced join patterns; CTEs (`WITH` clause) for cleaner complex queries; brief intro to subqueries.  
 
 
 <br/>
@@ -122,26 +122,26 @@ _- **Notebook 2 released:** Aggregates + basic joins + string/math helpers._
 
 - _MySQL Tutorial_ (PDF): Subqueries (intro) — **pp. 19–22** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
 - _Master SQL in 16 Pages_ — **pp. 9–11** (subqueries + set ops) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+- _Master SQL in 16 Pages_ — **pp. 14–16** (CTEs vs. subqueries) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
 
 #### Official MySQL docs
 
-- Subqueries (all forms) — [dev.mysql.com/doc/mysql/en/subqueries.html](https://dev.mysql.com/doc/mysql/en/subqueries.html)
+- CTEs (`WITH`) — [dev.mysql.com/doc/refman/8.4/en/with.html](https://dev.mysql.com/doc/refman/8.4/en/with.html)
+- Subqueries (focus on uncorrelated) — [dev.mysql.com/doc/mysql/en/subqueries.html](https://dev.mysql.com/doc/mysql/en/subqueries.html)
 - Set operations (UNION, INTERSECT, EXCEPT) — [dev.mysql.com/doc/refman/8.4/en/set-operations.html](https://dev.mysql.com/doc/refman/8.4/en/set-operations.html)
-- INTERSECT clause — [dev.mysql.com/doc/refman/8.4/en/intersect.html](https://dev.mysql.com/doc/refman/8.4/en/intersect.html)
-- EXCEPT clause — [dev.mysql.com/doc/refman/8.2/en/except.html](https://dev.mysql.com/doc/refman/8.2/en/except.html)
 
 #### Short videos
 
-- Subqueries — “Subqueries in MySQL | Intermediate MySQL” ([YouTube](https://www.youtube.com/watch?v=Vj6RqA_X-IE))
-- UNION — brief explainer (fallback if needed) ([YouTube](https://www.youtube.com/watch?v=5OdVJbNCSso&t=7042s)) — jump to the set-ops segment in the full course
+- CTEs — "Common Table Expressions (WITH clause)" ([YouTube](https://www.youtube.com/watch?v=QphfWQXZaJ4))
+- Subqueries — "Subqueries in MySQL | Intermediate MySQL" ([YouTube](https://www.youtube.com/watch?v=Vj6RqA_X-IE))
 
 ### In class
 
 - **Clicker quiz at the start (attendance)** on the readings.  
-- Quiz debrief: when to use subqueries; recognizing accidental Cartesian effects.  
-- Small‑group refactors: rewrite a subquery as a join and vice versa; validate equivalence.  
-- **Notebook 3 released:** Subqueries + `UNION/UNION ALL` (no `INTERSECT/EXCEPT`).  
-- If time: begin Notebook 3 in class.
+- Quiz debrief: when to use CTEs vs subqueries vs joins; readability trade-offs.  
+- Small‑group refactors: rewrite a subquery as a CTE and as a join; compare approaches.  
+- **Notebook 3 released:** CTEs + basic subqueries + `UNION/UNION ALL` (focus on practical applications).  
+- If time: begin Notebook 3 in class.
 
 
 <br/>
@@ -150,13 +150,13 @@ _- **Notebook 2 released:** Aggregates + basic joins + string/math helpers._
 
 ### Prep
 
-- Submit **Notebook 3** by the start of class.  
+- Submit **Notebook 3** by the start of class.  
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 3.  
-- Review Notebook 3: equivalence checks and performance notes.  
-_- **Introduce new topic:** ER modelling & schema design → DDL basics (`CREATE TABLE`, primary/foreign keys, constraints)._  
+- **Clicker quiz at the start (attendance)** on Notebook 3.  
+- Review Notebook 3: CTE best practices and performance considerations.  
+- **Introduce new topic:** Database design fundamentals — ER modeling, normalization (1NF, 2NF, 3NF), and schema design principles.  
 - Mid‑term project brief released (requirements, rubric, deliverables, sample datasets).  
 
 
@@ -169,37 +169,35 @@ _- **Introduce new topic:** ER modelling & schema design → DDL basics (`CREATE
 #### Primary reading
 
 - _MySQL Tutorial_ (PDF): Creating tables & basic DML — **pp. 31–40** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
-- _Master SQL in 16 Pages_ — **pp. 14–16** (CTEs vs. subqueries; DML quick ref) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+- Database design primer (PDF) — "Entity-Relationship Modeling and Normalization" — **pp. 1–8** ([db-design-primer.pdf](db-design-primer.pdf))
 
 #### Official MySQL docs
 
 - CTEs (`WITH`) — [dev.mysql.com/doc/refman/8.4/en/with.html](https://dev.mysql.com/doc/refman/8.4/en/with.html)
 - CREATE TABLE — [dev.mysql.com/doc/refman/8.4/en/create-table.html](https://dev.mysql.com/doc/refman/8.4/en/create-table.html)
+- MySQL data types — [dev.mysql.com/doc/refman/8.4/en/data-types.html](https://dev.mysql.com/doc/refman/8.4/en/data-types.html)
+- Constraints and foreign keys — [dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html](https://dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html)
 - INSERT — [dev.mysql.com/doc/en/insert.html](https://dev.mysql.com/doc/en/insert.html)
 - UPDATE — [dev.mysql.com/doc/refman/8.4/en/update.html](https://dev.mysql.com/doc/refman/8.4/en/update.html)
 - DELETE — [dev.mysql.com/doc/en/delete.html](https://dev.mysql.com/doc/en/delete.html)
-- LOAD DATA — [dev.mysql.com/doc/en/load-data.html](https://dev.mysql.com/doc/en/load-data.html)
  
 #### Short videos
 
-- MySQL Workbench basics (official MySQL channel) — “MySQL Workbench Tutorial” ([YouTube](https://www.youtube.com/watch?v=X_umYKqKaF0))
-- (Optional) ProgrammingKnowledge: CREATE TABLE / INSERT / UPDATE / DELETE (pick 1–2 as needed)
-  - CREATE TABLE ([YouTube](https://www.youtube.com/watch?v=6NVnZrsXH8A))
-  - UPDATE ([YouTube](https://www.youtube.com/watch?v=v3RIEfBbqIw))
-  - DELETE ([YouTube](https://www.youtube.com/watch?v=_VKhe_nuTCw))
+- ER modeling basics — "Entity Relationship Diagram (ERD) Tutorial" ([YouTube](https://www.youtube.com/watch?v=QpdhBUYk7Kk))
+- MySQL Workbench basics (official MySQL channel) — "MySQL Workbench Tutorial" ([YouTube](https://www.youtube.com/watch?v=X_umYKqKaF0))
 
 #### Project prep
  
-- Decide whether you prefer **GUI (Workbench/Beekeeper)** or **terminal** tooling, local or cloud for your project build._
+- Decide whether you prefer **GUI (Workbench/Beekeeper)** or **terminal** tooling, local or cloud for your project build.
 
 ### In class
 
 - **Clicker quiz at the start (attendance)** on the readings.  
-- Quiz debrief: common design errors, key choices, normalization trade‑offs.  
-- Install session: **local or cloud MySQL** (**_guided checklist_**).  
-- Team studio: draft initial ER diagram; translate to `CREATE TABLE` statements.  
+- Quiz debrief: common design errors, normalization principles, MySQL data type choices.  
+- Install session: **local or cloud MySQL** (**guided checklist**).  
+- Team studio: draft initial ER diagram; validate normalization; translate to `CREATE TABLE` statements.  
 - **DML mini‑lab:** `INSERT`, `UPDATE`, `DELETE`; quick demo of `LOAD DATA` and GUI for bulk CSV.  
-- **Notebook 4 released:** DDL + DML on your own instance (start in class if time).
+- **Notebook 4 released:** DDL + DML on your own instance (start in class if time).
 
 
 <br/>
@@ -208,15 +206,14 @@ _- **Introduce new topic:** ER modelling & schema design → DDL basics (`CREATE
 
 ### Prep
 
-- Submit **Notebook 4** at the start of class.
+- Submit **Notebook 4** at the start of class.
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 4.  
-- Quiz debrief and indexing basics: B‑tree indexes, composite keys, covering indexes; when *not* to index.  
-- `EXPLAIN` walkthroughs on representative queries from your projects.  
-- Workshop time: apply indexes; re‑run `EXPLAIN`; record observations for project report.  
-_- **Assign Reading for Thu:** short tuning case study + `EXPLAIN` primer._
+- **Clicker quiz at the start (attendance)** on Notebook 4.  
+- Quiz debrief: constraint violations, foreign key best practices, data loading pitfalls.  
+- **Introduce new topic:** Query performance and optimization — indexing strategies, query execution plans, and optimization techniques.  
+- Workshop time: begin applying indexes to your project schemas.  
 
 
 <br/>
@@ -228,26 +225,28 @@ _- **Assign Reading for Thu:** short tuning case study + `EXPLAIN` primer._
 #### Primary reading
 
 - _MySQL Tutorial_ (PDF): Multi-table queries & joins — **pp. 23–30** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
-- _Master SQL in 16 Pages_ — **pp. 12–13** (JOINs quick reference) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
-
-#### Short videos
-
-- Joins overview (compact, MySQL-focused) — ([YouTube](https://www.youtube.com/watch?v=G3lJAxg1cy8))
-- (Optional, performance/plan intro) Percona: “Introduction into MySQL Query Tuning” — includes EXPLAIN walkthrough ([Video](https://www.percona.com/resources/videos/introduction-mysql-query-tuning-for-devops))
+- MySQL Performance primer (PDF) — "Indexing and Query Optimization" — **pp. 1–6** ([mysql-performance-primer.pdf](mysql-performance-primer.pdf))
 
 #### Official MySQL docs
 
 - SELECT + JOIN clause (syntax & examples) — [dev.mysql.com/doc/en/select.html](https://dev.mysql.com/doc/en/select.html)
+- CREATE INDEX — [dev.mysql.com/doc/refman/8.4/en/create-index.html](https://dev.mysql.com/doc/refman/8.4/en/create-index.html)
 - EXPLAIN (plan inspection) — [dev.mysql.com/doc/en/explain.html](https://dev.mysql.com/doc/en/explain.html)
 - EXPLAIN output formats — [dev.mysql.com/doc/en/explain-output.html](https://dev.mysql.com/doc/en/explain-output.html)
+
+#### Short videos
+
+- MySQL indexing basics — "MySQL Indexes Explained" ([YouTube](https://www.youtube.com/watch?v=HubezKbFL7E))
+- EXPLAIN walkthrough — "MySQL EXPLAIN Tutorial" ([YouTube](https://www.youtube.com/watch?v=oqVXHpklk9w))
 
 ### In class
 
 - **Clicker quiz at the start (attendance)** on the reading.  
-- Quiz debrief: common indexing myths; fixing slow queries.  
-- Peer review: query plan round‑robin—diagnose and improve.  
+- Quiz debrief: indexing strategies, B-tree concepts, composite vs single-column indexes.  
+- `EXPLAIN` walkthroughs on representative queries from your projects.  
+- Peer review: query plan round‑robin—diagnose and improve slow queries.  
 - Work session with instructor roaming; finalize mid‑term checklist.  
-- **Mid‑term submission portal opens** (accepts until Tue, Sep 30, 10:00 am).
+- **Mid‑term submission portal opens** (accepts until Tue, Sep 30, 10:00 am).
 
 
 <br/>
@@ -284,7 +283,7 @@ _- **Assign Reading for Thu:** short tuning case study + `EXPLAIN` primer._
 
 ## Week 7: Tuesday, September 30
 
-- **Mid‑term project due** by 10:00 am (schema SQL, load scripts/notebooks, sample queries, brief report).
+- **Mid‑term project due** by 10:00 am (schema SQL, load scripts/notebooks, sample queries, brief report).
 
 ### Prep
 

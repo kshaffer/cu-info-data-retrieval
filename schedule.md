@@ -158,7 +158,7 @@ General weekly schedule:
 - **Clicker quiz at the start (attendance)** on Notebook 3.  
 - Review Notebook 3: CTE best practices and performance considerations.  
 - **Introduce new topic:** Database design fundamentals — ER modeling, normalization (1NF, 2NF, 3NF), and schema design principles.  
-- Mid‑term project brief released (requirements, rubric, deliverables, sample datasets).  
+- Mid‑term project released (requirements, deliverables, sample datasets).  
 
 
 <br/>
@@ -195,10 +195,8 @@ General weekly schedule:
 ### In class
 
 - **Clicker quiz at the start (attendance)** on the readings.
-- Quiz debrief: common design errors, normalization principles, MySQL data type choices.
+- **Quiz debrief.**
 - **Connection verification:** confirm your **pre‑class install** (local or cloud) using a short checklist; resolve blockers quickly.
-- Team studio: draft initial ER diagram; validate normalization; translate to `CREATE TABLE` statements.
-- **DML mini‑lab:** `INSERT`, `UPDATE`, `DELETE`; quick demo of `LOAD DATA` for bulk CSV **(if time)**.
 - **Notebook 4 released:** DDL + DML on your own instance (start in class if time).
 
 

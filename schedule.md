@@ -60,11 +60,11 @@ _These documentation articles will have more information than you need, and they
 
 #### Assignment
 
-- **Submit _Notebook 1_ to Canvas by the start of class.** The notebook is in Colab, and linked from Canvas.
-- Submit Reading Quiz 1 on Canvas (also covers Notebook 1, so be sure to complete Notebook 1 before the quiz).
+- **Submit _Notebook 1_ to Canvas by the start of class.** The notebook is in Colab, and linked from Canvas under Assignments.
+- Submit Reading Quiz 1 on Canvas under Quizzes (also covers Notebook 1, so be sure to complete Notebook 1 before the quiz).
 
 ### In class
-- Review Notebook 1 results and common pitfalls (NULL logic, filter order, off‑by‑one with `LIMIT`).
+- Review Notebook 1 results.
 - **Introduce new topic:** Aggregation + string/math functions; preview of **core joins (INNER, LEFT)**.
 
 <br/>

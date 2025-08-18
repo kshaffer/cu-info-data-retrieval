@@ -6,9 +6,9 @@
 
 General weekly schedule:
 
-**Tuesday** – submit previous week's assignment; **clicker quiz at the beginning of class (counts for attendance)** about the assignment; review/discuss/clarify last assignment; introduce new topic and readings 
+**Tuesday** – submit previous week's assignment; **quiz by the beginning of class** about the assignment; review/discuss/clarify last assignment; introduce new topic and readings 
 **Midweek homework** - reading assignment   
-**Thursday** – **clicker quiz at the beginning of class (counts for attendance)** on assigned readings; review quiz results and clarify difficulties revealed by quiz; in‑class partner/small‑group work applying readings; introduce Colab notebook assignment; if time, begin the notebook in class  
+**Thursday** – **quiz by the beginning of class** on assigned readings; review quiz results and clarify difficulties revealed by quiz; in‑class partner/small‑group work applying readings; introduce Colab notebook assignment; if time, begin the notebook in class  
 **Weekend homework** – Colab notebook  
 **Following Tuesday** – submit notebooks; clicker quiz; review/clarify; introduce new topic and readings; etc.
 
@@ -54,17 +54,16 @@ _These documentation articles will have more information than you need, and they
 
 #### For reference
 
-- _Master SQL in 16 Pages_ — **pp. 1–5** (SELECT, WHERE, ORDER BY, LIMIT, LIKE) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
-- _SQL Cheat Sheet_ — **pp. 1–2** ([SQL-Cheat-Sheet.pdf](SQL-Cheat-Sheet.pdf))
+- _Master SQL in 16 Pages_ (on Canvas) — **pp. 1–5** (SELECT, WHERE, ORDER BY, LIMIT, LIKE)
+- _SQL Cheat Sheet_ (on Canvas) — **pp. 1–2**
 
 
 #### Assignment
 
 - **Submit _Notebook 1_ to Canvas by the start of class.** The notebook is in Colab, and linked from Canvas.
-
+- Submit Reading Quiz 1 on Canvas (also covers Notebook 1, so be sure to complete Notebook 1 before the quiz).
 
 ### In class
-- **Clicker quiz at the start (attendance)** on Notebook 1 experience and outcomes.
 - Review Notebook 1 results and common pitfalls (NULL logic, filter order, off‑by‑one with `LIMIT`).
 - **Introduce new topic:** Aggregation + string/math functions; preview of **core joins (INNER, LEFT)**.
 

@@ -18,7 +18,8 @@ General weekly schedule:
 
 ### Prep
 
-- None (first day). Bring laptop.  
+- Bring laptop.
+- Read: [What is a relational database](https://www.ibm.com/think/topics/relational-databases)
 
 ### In class
 
@@ -36,27 +37,30 @@ General weekly schedule:
 
 #### Reading
 
-- _MySQL Tutorial_ (PDF): Intro + Basic Queries — **pp. 1–12** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
-- _Master SQL in 16 Pages_ — **pp. 1–5** (SELECT, WHERE, ORDER BY, LIMIT, LIKE) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
-- (Optional quick reference) _SQL Cheat Sheet_ — **pp. 1–2** ([SQL-Cheat-Sheet.pdf](SQL-Cheat-Sheet.pdf))
+- _MySQL Tutorial_ (PDF): Intro + Basic Queries — **pp. 5–7** (mysql-tutorial.pdf on Canvas)
 
 #### Official MySQL docs
+
+_These documentation articles will have more information than you need, and they will reference some things we haven't covered yet. However, it is important to be familiar with them. Glean from them what you need in reference to the assigned notebook and class discussions, and tuck the rest away for later._
 
 - SELECT statement (overview) — [dev.mysql.com/doc/en/select.html](https://dev.mysql.com/doc/en/select.html)
 - Pattern matching (LIKE) — [dev.mysql.com/doc/en/pattern-matching.html](https://dev.mysql.com/doc/en/pattern-matching.html)
 - String functions (reference) — [dev.mysql.com/doc/en/string-functions.html](https://dev.mysql.com/doc/en/string-functions.html)
 
-#### Short videos (optional)
+#### Videos (optional)
 
-- SELECT (intro) — "MySQL Tutorial for Beginners 8: Using SELECT" ([YouTube](https://www.youtube.com/watch?v=ZqlSPEIHBPg))
-- WHERE — "MySQL WHERE Clause" ([YouTube](https://www.youtube.com/watch?v=cfY9BkYdAh0))
-- ORDER BY — "MySQL ORDER BY Clause" ([YouTube](https://www.youtube.com/watch?v=L7QXspb2NHk))
-- LIMIT — "MySQL LIMIT Clause" ([YouTube](https://www.youtube.com/watch?v=WEnavAPW4dk))
-- LIKE — "MySQL LIKE Operator" ([YouTube](https://www.youtube.com/watch?v=wubZMlkgxCM))
+- [SELECT Statement in MySQL](https://www.youtube.com/watch?v=HYD8KjPB9F8)
+- [WHERE Clause in MySQL](https://www.youtube.com/watch?v=MARn_mssG4A)
+
+#### For reference
+
+- _Master SQL in 16 Pages_ — **pp. 1–5** (SELECT, WHERE, ORDER BY, LIMIT, LIKE) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+- _SQL Cheat Sheet_ — **pp. 1–2** ([SQL-Cheat-Sheet.pdf](SQL-Cheat-Sheet.pdf))
+
 
 #### Assignment
 
-- Submit **Notebook 1** by the start of class.  
+- **Submit _Notebook 1_ to Canvas by the start of class.** The notebook is in Colab, and linked from Canvas.
 
 
 ### In class
@@ -72,9 +76,9 @@ General weekly schedule:
 
 #### R reading
 
-- _MySQL Tutorial_ (PDF): Aggregates & GROUP BY — **pp. 13–18** ([mysql-tutorial.pdf](mysql-tutorial.pdf)).  
-- _Master SQL in 16 Pages_ — **pp. 6–8** (COUNT, SUM/AVG, MIN/MAX, GROUP BY, HAVING) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf)).  
-- _MySQL Tutorial_ (PDF): Multi‑table queries (INNER/LEFT only) — **pp. 23–25** ([mysql-tutorial.pdf](mysql-tutorial.pdf)).  
+- _MySQL Tutorial_ (PDF): Aggregates & GROUP BY — **pp. 13–18** (mysql-tutorial.pdf on Canvas).  
+- _Master SQL in 16 Pages_ — **pp. 6–8** (COUNT, SUM/AVG, MIN/MAX, GROUP BY, HAVING) (Master_SQL_in_16_Pages.pdf on Canvas).  
+- _MySQL Tutorial_ (PDF): Multi‑table queries (INNER/LEFT only) — **pp. 23–25** (mysql-tutorial.pdf on Canvas).  
 - (Micro‑handout) **NULLs & COALESCE/IFNULL** (1 page; on LMS).
 
 #### Official MySQL docs
@@ -83,10 +87,9 @@ General weekly schedule:
 - MySQL handling of `GROUP BY` — [dev.mysql.com/doc/refman/8.4/en/group-by-handling.html](https://dev.mysql.com/doc/refman/8.4/en/group-by-handling.html)
 - GROUP BY modifiers (`WITH ROLLUP`) — [dev.mysql.com/doc/refman/8.4/en/group-by-modifiers.html](https://dev.mysql.com/doc/refman/8.4/en/group-by-modifiers.html)
 
-#### Short videos
+#### Videos (optional)
 
-- Aggregate functions — "More on Aggregate Functions" ([YouTube](https://www.youtube.com/watch?v=0pfKXxB6aD8))
-- GROUP BY — concise refresher ([YouTube](https://www.youtube.com/watch?v=vYS-pqVSMiI))
+- [GROUP BY and ORDER BY in MySQL](https://www.youtube.com/watch?v=zgYqUP_PhQo)
 
 
 ### In class
@@ -121,9 +124,9 @@ General weekly schedule:
 
 #### Primary reading
 
-- _MySQL Tutorial_ (PDF): Subqueries (intro) — **pp. 19–22** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
-- _Master SQL in 16 Pages_ — **pp. 9–11** (subqueries + set ops) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
-- _Master SQL in 16 Pages_ — **pp. 14–16** (CTEs vs. subqueries) ([Master_SQL_in_16_Pages.pdf](Master_SQL_in_16_Pages.pdf))
+- _MySQL Tutorial_ (PDF): Subqueries (intro) — **pp. 19–22** (mysql-tutorial.pdf on Canvas)
+- _Master SQL in 16 Pages_ — **pp. 9–11** (subqueries + set ops) (Master_SQL_in_16_Pages.pdf on Canvas)
+- _Master SQL in 16 Pages_ — **pp. 14–16** (CTEs vs. subqueries) (Master_SQL_in_16_Pages.pdf on Canvas)
 
 #### Official MySQL docs
 
@@ -133,8 +136,9 @@ General weekly schedule:
 
 #### Short videos
 
-- CTEs — "Common Table Expressions (WITH clause)" ([YouTube](https://www.youtube.com/watch?v=QphfWQXZaJ4))
-- Subqueries — "Subqueries in MySQL | Intermediate MySQL" ([YouTube](https://www.youtube.com/watch?v=Vj6RqA_X-IE))
+[//]: # (- CTEs — "Common Table Expressions &#40;WITH clause&#41;" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=QphfWQXZaJ4&#41;&#41;)
+
+[//]: # (- Subqueries — "Subqueries in MySQL | Intermediate MySQL" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=Vj6RqA_X-IE&#41;&#41;)
 
 ### In class
 
@@ -169,8 +173,9 @@ General weekly schedule:
 
 #### Primary reading
 
-- _MySQL Tutorial_ (PDF): Creating tables & basic DML — **pp. 31–40** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
-- Database design primer (PDF) — "Entity-Relationship Modeling and Normalization" — **pp. 1–8** ([db-design-primer.pdf](db-design-primer.pdf))
+- _MySQL Tutorial_ (PDF): Creating tables & basic DML — **pp. 31–40** (mysql-tutorial.pdf on Canvas)
+
+[//]: # (- Database design primer &#40;PDF&#41; — "Entity-Relationship Modeling and Normalization" — **pp. 1–8** &#40;[db-design-primer.pdf]&#40;db-design-primer.pdf&#41;&#41;)
 
 #### Official MySQL docs
 
@@ -184,8 +189,9 @@ General weekly schedule:
  
 #### Short videos
 
-- ER modeling basics — "Entity Relationship Diagram (ERD) Tutorial" ([YouTube](https://www.youtube.com/watch?v=QpdhBUYk7Kk))
-- MySQL Workbench basics (official MySQL channel) — "MySQL Workbench Tutorial" ([YouTube](https://www.youtube.com/watch?v=X_umYKqKaF0))
+[//]: # (- ER modeling basics — "Entity Relationship Diagram &#40;ERD&#41; Tutorial" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=QpdhBUYk7Kk&#41;&#41;)
+
+[//]: # (- MySQL Workbench basics &#40;official MySQL channel&#41; — "MySQL Workbench Tutorial" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=X_umYKqKaF0&#41;&#41;)
 
 #### Project prep
  
@@ -224,8 +230,9 @@ General weekly schedule:
 
 #### Primary reading
 
-- _MySQL Tutorial_ (PDF): Multi-table queries & joins — **pp. 23–30** ([mysql-tutorial.pdf](mysql-tutorial.pdf))
-- MySQL Performance primer (PDF) — "Indexing and Query Optimization" — **pp. 1–6** ([mysql-performance-primer.pdf](mysql-performance-primer.pdf))
+- _MySQL Tutorial_ (PDF): Multi-table queries & joins — **pp. 23–30** (mysql-tutorial.pdf on Canvas)
+
+[//]: # (- MySQL Performance primer &#40;PDF&#41; — "Indexing and Query Optimization" — **pp. 1–6** &#40;[mysql-performance-primer.pdf]&#40;mysql-performance-primer.pdf&#41;&#41;)
 
 #### Official MySQL docs
 
@@ -236,8 +243,9 @@ General weekly schedule:
 
 #### Short videos
 
-- MySQL indexing basics — "MySQL Indexes Explained" ([YouTube](https://www.youtube.com/watch?v=HubezKbFL7E))
-- EXPLAIN walkthrough — "MySQL EXPLAIN Tutorial" ([YouTube](https://www.youtube.com/watch?v=oqVXHpklk9w))
+[//]: # (- MySQL indexing basics — "MySQL Indexes Explained" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=HubezKbFL7E&#41;&#41;)
+
+[//]: # (- EXPLAIN walkthrough — "MySQL EXPLAIN Tutorial" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=oqVXHpklk9w&#41;&#41;)
 
 ### In class
 

@@ -27,8 +27,13 @@ Examines techniques for managing and accessing information and data of a variety
 
 ### Course goals ###
 
-...
-
+- Understand and apply foundational concepts of information retrieval systems.
+- Understand and apply foundational concepts of relational databases, NoSQL databases, and vector databases.
+- Create, manage, and query each type of database.
+- Know when and why to use each type of database in a research or production environment.
+- Manipulate data in each type of database using Python.
+- Optimize each type of database for performance and usability.
+- Transition data between each type of database and a Python environment, within acceptable limits of data loss.
 
 ## Credit and assessment ##
 

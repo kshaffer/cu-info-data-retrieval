@@ -57,9 +57,6 @@ This course consists of three units covering three different types of informatio
 - A free [Google Drive](http://drive.google.com) account *using your CU Identikey*.  
 - An account for ([Google Colab](https://colab.research.google.com/)). A free account should suffice, but you may want to consider a paid account, if you plan to work with large datasets for your projects.
 
-We will be using CUClickers/iClickers in this class. (The iClicker Student App is available at no cost.) For more information, see
-[https://oit.colorado.edu/services/learning-spaces-technology/cuclickers-iclickers](https://oit.colorado.edu/services/learning-spaces-technology/cuclickers-iclickers).
-
 All other required class materials will be posted or linked to on the course GitHub repository. Private (in copyright) materials will be posted in the course's shared Google Drive folder and Slack.
 
 ## Policies ##

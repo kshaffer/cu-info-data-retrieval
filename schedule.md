@@ -73,18 +73,23 @@ _These documentation articles will have more information than you need, and they
 
 ### Prep
 
-#### R reading
+#### Quiz
 
-- _MySQL Tutorial_ (PDF): Aggregates & GROUP BY — **pp. 13–18** (mysql-tutorial.pdf on Canvas).  
-- _Master SQL in 16 Pages_ — **pp. 6–8** (COUNT, SUM/AVG, MIN/MAX, GROUP BY, HAVING) (Master_SQL_in_16_Pages.pdf on Canvas).  
-- _MySQL Tutorial_ (PDF): Multi‑table queries (INNER/LEFT only) — **pp. 23–25** (mysql-tutorial.pdf on Canvas).  
-- (Micro‑handout) **NULLs & COALESCE/IFNULL** (1 page; on LMS).
+Reading Quiz #2 in Canvas (after doing the following readings).
+
+#### Reading
+
+- _MySQL Tutorial_ (PDF): **pp. 13–25** (mysql-tutorial.pdf on Canvas).  
 
 #### Official MySQL docs
+
+_These documentation articles will have more information than you need, and they will reference some things we haven't covered yet. However, it is important to be familiar with them. Glean from them what you need in reference to the assigned notebook and class discussions, and tuck the rest away for later._
 
 - Aggregate functions (overview) — [dev.mysql.com/doc/refman/8.4/en/aggregate-functions.html](https://dev.mysql.com/doc/refman/8.4/en/aggregate-functions.html)
 - MySQL handling of `GROUP BY` — [dev.mysql.com/doc/refman/8.4/en/group-by-handling.html](https://dev.mysql.com/doc/refman/8.4/en/group-by-handling.html)
 - GROUP BY modifiers (`WITH ROLLUP`) — [dev.mysql.com/doc/refman/8.4/en/group-by-modifiers.html](https://dev.mysql.com/doc/refman/8.4/en/group-by-modifiers.html)
+
+#### Other helpful reference material
 
 #### Videos (optional)
 
@@ -93,11 +98,8 @@ _These documentation articles will have more information than you need, and they
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on the readings.
-- Quiz debrief and practice examples, as necessary.
-- Partner challenge: explore descriptive questions on the sample DB using `GROUP BY` and `HAVING`.
-- Introduce **INNER** and **LEFT JOIN** on two tables.
-- **Notebook 2 released:** Aggregates + **core joins (INNER/LEFT)** + string/math helpers.
+- Quiz debrief.
+- Grouping and aggregation practice.
 - If time: begin Notebook 2 in class.
 
 <br/>
@@ -110,27 +112,32 @@ _These documentation articles will have more information than you need, and they
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 2.
-- Review Notebook 2 results: join selectivity, grouping pitfalls (non‑aggregated columns), and `HAVING` vs `WHERE`.
-- **Introduce new topic:** **Subqueries first** (uncorrelated → correlated), compare to joins; brief intro to **CTEs (`WITH`)** as a refactor/readability tool.
+- Review Notebook 2 results.
+- **Introduce new topic:** Subqueries, CTEs (`WITH`), and joins.
 
 
 <br/>
 
 ## Week 3: Thursday, September 4
 
+#### Quiz
+
+Reading Quiz #3 in Canvas (after doing the following readings).
+
 ### Prep
 
 #### Primary reading
 
-- _MySQL Tutorial_ (PDF): Subqueries (intro) — **pp. 19–22** (mysql-tutorial.pdf on Canvas)
-- _Master SQL in 16 Pages_ — **pp. 9–11** (subqueries + set ops) (Master_SQL_in_16_Pages.pdf on Canvas)
-- _Master SQL in 16 Pages_ — **pp. 14–16** (CTEs vs. subqueries) (Master_SQL_in_16_Pages.pdf on Canvas)
+- _MySQL Tutorial_ (PDF): Using more than one table (intro to joins) — **pp. 25–28** (mysql-tutorial.pdf on Canvas)
+- _Master SQL in 16 Pages_ — **p. 6** (subqueries) (Master_SQL_in_16_Pages.pdf on Canvas)
+- _Master SQL in 16 Pages_ — **pp. 7–9** (JOINS) (Master_SQL_in_16_Pages.pdf on Canvas).  
+- _Master SQL in 16 Pages_ — **p. 10** (set operations) (Master_SQL_in_16_Pages.pdf on Canvas)
 
 #### Official MySQL docs
 
 - CTEs (`WITH`) — [dev.mysql.com/doc/refman/8.4/en/with.html](https://dev.mysql.com/doc/refman/8.4/en/with.html)
-- Subqueries (focus on uncorrelated) — [dev.mysql.com/doc/mysql/en/subqueries.html](https://dev.mysql.com/doc/mysql/en/subqueries.html)
+- Subqueries — [dev.mysql.com/doc/mysql/en/subqueries.html](https://dev.mysql.com/doc/mysql/en/subqueries.html)
+- JOIN Clause - [https://dev.mysql.com/doc/refman/8.4/en/join.html](https://dev.mysql.com/doc/refman/8.4/en/join.html)
 - Set operations (UNION, INTERSECT, EXCEPT) — [dev.mysql.com/doc/refman/8.4/en/set-operations.html](https://dev.mysql.com/doc/refman/8.4/en/set-operations.html)
 
 #### Short videos
@@ -141,7 +148,6 @@ _These documentation articles will have more information than you need, and they
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on the readings.
 - Quiz debrief: when to use CTEs vs subqueries vs joins; readability trade‑offs.
 - Small‑group refactors: rewrite a subquery as a CTE and as a join; compare approaches.
 - **Notebook 3 released:** **Subqueries + CTEs** + `UNION/UNION ALL` (focus on practical applications).
@@ -158,8 +164,7 @@ _These documentation articles will have more information than you need, and they
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 3.  
-- Review Notebook 3: CTE best practices and performance considerations.  
+- Review Notebook 3.  
 - **Introduce new topic:** Database design fundamentals — ER modeling, normalization (1NF, 2NF, 3NF), and schema design principles.  
 - Mid‑term project released (requirements, deliverables, sample datasets).  
 
@@ -170,21 +175,31 @@ _These documentation articles will have more information than you need, and they
 
 ### Prep
 
+#### Quiz
+
+Reading Quiz #4 in Canvas (after doing the following readings).
+
 #### Primary reading
 
-- _MySQL Tutorial_ (PDF): Creating tables & basic DML — **pp. 31–40** (mysql-tutorial.pdf on Canvas)
+[//]: # (- _MySQL Tutorial_ &#40;PDF&#41;: Creating tables & basic DML — **pp. 31–40** &#40;mysql-tutorial.pdf on Canvas&#41;)
 
 [//]: # (- Database design primer &#40;PDF&#41; — "Entity-Relationship Modeling and Normalization" — **pp. 1–8** &#40;[db-design-primer.pdf]&#40;db-design-primer.pdf&#41;&#41;)
 
 #### Official MySQL docs
 
-- CTEs (`WITH`) — [dev.mysql.com/doc/refman/8.4/en/with.html](https://dev.mysql.com/doc/refman/8.4/en/with.html)
-- CREATE TABLE — [dev.mysql.com/doc/refman/8.4/en/create-table.html](https://dev.mysql.com/doc/refman/8.4/en/create-table.html)
-- MySQL data types — [dev.mysql.com/doc/refman/8.4/en/data-types.html](https://dev.mysql.com/doc/refman/8.4/en/data-types.html)
-- Constraints and foreign keys — [dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html](https://dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html)
-- INSERT — [dev.mysql.com/doc/en/insert.html](https://dev.mysql.com/doc/en/insert.html)
-- UPDATE — [dev.mysql.com/doc/refman/8.4/en/update.html](https://dev.mysql.com/doc/refman/8.4/en/update.html)
-- DELETE — [dev.mysql.com/doc/en/delete.html](https://dev.mysql.com/doc/en/delete.html)
+[//]: # (- CTEs &#40;`WITH`&#41; — [dev.mysql.com/doc/refman/8.4/en/with.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/with.html&#41;)
+
+[//]: # (- CREATE TABLE — [dev.mysql.com/doc/refman/8.4/en/create-table.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/create-table.html&#41;)
+
+[//]: # (- MySQL data types — [dev.mysql.com/doc/refman/8.4/en/data-types.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/data-types.html&#41;)
+
+[//]: # (- Constraints and foreign keys — [dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html&#41;)
+
+[//]: # (- INSERT — [dev.mysql.com/doc/en/insert.html]&#40;https://dev.mysql.com/doc/en/insert.html&#41;)
+
+[//]: # (- UPDATE — [dev.mysql.com/doc/refman/8.4/en/update.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/update.html&#41;)
+
+[//]: # (- DELETE — [dev.mysql.com/doc/en/delete.html]&#40;https://dev.mysql.com/doc/en/delete.html&#41;)
  
 #### Short videos
 
@@ -225,20 +240,27 @@ _These documentation articles will have more information than you need, and they
 
 ## Week 5: Thursday, September 18
 
+#### Quiz
+
+Reading Quiz #5 in Canvas (after doing the following readings).
+
 ### Prep
 
 #### Primary reading
 
-- _MySQL Tutorial_ (PDF): Multi-table queries & joins — **pp. 23–30** (mysql-tutorial.pdf on Canvas)
+[//]: # (- _MySQL Tutorial_ &#40;PDF&#41;: Multi-table queries & joins — **pp. 23–30** &#40;mysql-tutorial.pdf on Canvas&#41;)
 
 [//]: # (- MySQL Performance primer &#40;PDF&#41; — "Indexing and Query Optimization" — **pp. 1–6** &#40;[mysql-performance-primer.pdf]&#40;mysql-performance-primer.pdf&#41;&#41;)
 
 #### Official MySQL docs
 
-- SELECT + JOIN clause (syntax & examples) — [dev.mysql.com/doc/en/select.html](https://dev.mysql.com/doc/en/select.html)
-- CREATE INDEX — [dev.mysql.com/doc/refman/8.4/en/create-index.html](https://dev.mysql.com/doc/refman/8.4/en/create-index.html)
-- EXPLAIN (plan inspection) — [dev.mysql.com/doc/en/explain.html](https://dev.mysql.com/doc/en/explain.html)
-- EXPLAIN output formats — [dev.mysql.com/doc/en/explain-output.html](https://dev.mysql.com/doc/en/explain-output.html)
+[//]: # (- SELECT + JOIN clause &#40;syntax & examples&#41; — [dev.mysql.com/doc/en/select.html]&#40;https://dev.mysql.com/doc/en/select.html&#41;)
+
+[//]: # (- CREATE INDEX — [dev.mysql.com/doc/refman/8.4/en/create-index.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/create-index.html&#41;)
+
+[//]: # (- EXPLAIN &#40;plan inspection&#41; — [dev.mysql.com/doc/en/explain.html]&#40;https://dev.mysql.com/doc/en/explain.html&#41;)
+
+[//]: # (- EXPLAIN output formats — [dev.mysql.com/doc/en/explain-output.html]&#40;https://dev.mysql.com/doc/en/explain-output.html&#41;)
 
 #### Short videos
 
@@ -248,7 +270,6 @@ _These documentation articles will have more information than you need, and they
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on the reading.  
 - Quiz debrief: indexing strategies, B-tree concepts, composite vs single-column indexes.  
 - `EXPLAIN` walkthroughs on representative queries from your projects.  
 - Peer review: query plan round‑robin—diagnose and improve slow queries.  
@@ -266,7 +287,6 @@ _These documentation articles will have more information than you need, and they
 
 ### In class
 
-- **Clicker quiz at the start (attendance)**: quick reflection on project process/lessons.  
 - Lightning demos (2–3 min per team): schema overview + one "before/after" query plan.  
 - Peer feedback, followed by brief work/(re)planning time.  
 

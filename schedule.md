@@ -128,10 +128,12 @@ Reading Quiz #3 in Canvas (after doing the following readings).
 
 #### Primary reading
 
-- _MySQL Tutorial_ (PDF): Using more than one table (intro to joins) — **pp. 25–28** (mysql-tutorial.pdf on Canvas)
-- _Master SQL in 16 Pages_ — **p. 6** (subqueries) (Master_SQL_in_16_Pages.pdf on Canvas)
-- _Master SQL in 16 Pages_ — **pp. 7–9** (JOINS) (Master_SQL_in_16_Pages.pdf on Canvas).  
-- _Master SQL in 16 Pages_ — **p. 10** (set operations) (Master_SQL_in_16_Pages.pdf on Canvas)
+- _MySQL Tutorial_ (PDF): Using more than one table (intro to joins) — **pp. 25–27** (mysql-tutorial.pdf on Canvas)
+- [Introduction to MySQL joins](https://planetscale.com/blog/introduction-to-mysql-joins)
+- [An Overview of Joins](https://planetscale.com/learn/courses/mysql-for-developers/queries/an-overview-of-joins?autoplay=1)
+- [Subqueries](https://planetscale.com/learn/courses/mysql-for-developers/queries/subqueries)
+- [Common Table Expressions (CTEs)](https://planetscale.com/learn/courses/mysql-for-developers/queries/common-table-expressions-ctes)
+- [Unions](https://planetscale.com/learn/courses/mysql-for-developers/queries/unions)
 
 #### Official MySQL docs
 
@@ -140,17 +142,21 @@ Reading Quiz #3 in Canvas (after doing the following readings).
 - JOIN Clause - [https://dev.mysql.com/doc/refman/8.4/en/join.html](https://dev.mysql.com/doc/refman/8.4/en/join.html)
 - Set operations (UNION, INTERSECT, EXCEPT) — [dev.mysql.com/doc/refman/8.4/en/set-operations.html](https://dev.mysql.com/doc/refman/8.4/en/set-operations.html)
 
-#### Short videos
+#### Other helpful reference material (optional)
 
-[//]: # (- CTEs — "Common Table Expressions &#40;WITH clause&#41;" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=QphfWQXZaJ4&#41;&#41;)
+- _Master SQL in 16 Pages_ — **p. 6** (subqueries) (Master_SQL_in_16_Pages.pdf on Canvas)
+- _Master SQL in 16 Pages_ — **pp. 7–9** (JOINS) (Master_SQL_in_16_Pages.pdf on Canvas).  
+- _Master SQL in 16 Pages_ — **p. 10** (set operations) (Master_SQL_in_16_Pages.pdf on Canvas)
 
-[//]: # (- Subqueries — "Subqueries in MySQL | Intermediate MySQL" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=Vj6RqA_X-IE&#41;&#41;)
+#### Videos (optional)
+
+_Videos are embedded in the primary readings this week. I highly recommend watching them, as well as reading the articles, particularly for any concepts that are new for you._
 
 ### In class
 
-- Quiz debrief: when to use CTEs vs subqueries vs joins; readability trade‑offs.
+- Quiz debrief.
 - Small‑group refactors: rewrite a subquery as a CTE and as a join; compare approaches.
-- **Notebook 3 released:** **Subqueries + CTEs** + `UNION/UNION ALL` (focus on practical applications).
+- **Notebook 3 released:** **Subqueries, CTEs, and basic joins**.
 - If time: begin Notebook 3 in class.
 
 

@@ -171,8 +171,7 @@ _Videos are embedded in the primary readings this week. I highly recommend watch
 ### In class
 
 - Review Notebook 3.  
-- **Introduce new topic:** Database design fundamentals — ER modeling, normalization (1NF, 2NF, 3NF), and schema design principles.  
-- Mid‑term project released (requirements, deliverables, sample datasets).  
+- More work on joins.
 
 
 <br/>
@@ -187,43 +186,24 @@ Reading Quiz #4 in Canvas (after doing the following readings).
 
 #### Primary reading
 
-[//]: # (- _MySQL Tutorial_ &#40;PDF&#41;: Creating tables & basic DML — **pp. 31–40** &#40;mysql-tutorial.pdf on Canvas&#41;)
 
-[//]: # (- Database design primer &#40;PDF&#41; — "Entity-Relationship Modeling and Normalization" — **pp. 1–8** &#40;[db-design-primer.pdf]&#40;db-design-primer.pdf&#41;&#41;)
 
 #### Official MySQL docs
 
-[//]: # (- CTEs &#40;`WITH`&#41; — [dev.mysql.com/doc/refman/8.4/en/with.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/with.html&#41;)
-
-[//]: # (- CREATE TABLE — [dev.mysql.com/doc/refman/8.4/en/create-table.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/create-table.html&#41;)
-
-[//]: # (- MySQL data types — [dev.mysql.com/doc/refman/8.4/en/data-types.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/data-types.html&#41;)
-
-[//]: # (- Constraints and foreign keys — [dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/constraint-foreign-key.html&#41;)
-
-[//]: # (- INSERT — [dev.mysql.com/doc/en/insert.html]&#40;https://dev.mysql.com/doc/en/insert.html&#41;)
-
-[//]: # (- UPDATE — [dev.mysql.com/doc/refman/8.4/en/update.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/update.html&#41;)
-
-[//]: # (- DELETE — [dev.mysql.com/doc/en/delete.html]&#40;https://dev.mysql.com/doc/en/delete.html&#41;)
+- [Installing MySQL on Windows](https://dev.mysql.com/doc/refman/8.4/en/windows-installation.html) (if you're a Windows user)
+- [Installing MySQL on macOS Using Native Packages](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/macos-installation-pkg.html) (if you're a Mac user)
+- [Getting Started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/)
  
 #### Short videos
 
-[//]: # (- ER modeling basics — "Entity Relationship Diagram &#40;ERD&#41; Tutorial" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=QpdhBUYk7Kk&#41;&#41;)
-
-[//]: # (- MySQL Workbench basics &#40;official MySQL channel&#41; — "MySQL Workbench Tutorial" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=X_umYKqKaF0&#41;&#41;)
-
-#### Project prep
- 
-- Decide whether you prefer **GUI (Workbench/Beekeeper)** or **terminal** tooling, local or cloud for your project build.
-- Install MySQL in a platform of your choice (local or cloud).
+- [SQL Create Table and Insert Data](https://youtu.be/LAP9-vu-KgU)
+- [MySQL Workbench Tutorial](https://www.youtube.com/watch?v=X_umYKqKaF0)
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on the readings.
 - **Quiz debrief.**
-- **Connection verification:** confirm your **pre‑class install** (local or cloud) using a short checklist; resolve blockers quickly.
-- **Notebook 4 released:** DDL + DML on your own instance (start in class if time).
+- Install and troubleshoot MySQL and [MySQL Workbench](https://www.mysql.com/products/workbench/) on your laptop (if you haven't already).
+- Make and break some database(s).
 
 
 <br/>
@@ -232,7 +212,7 @@ Reading Quiz #4 in Canvas (after doing the following readings).
 
 ### Prep
 
-- Submit **Notebook 4** at the start of class.
+- Submit **Assignment 4** at the start of class.
 
 ### In class
 

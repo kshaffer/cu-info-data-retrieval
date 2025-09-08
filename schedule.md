@@ -184,11 +184,7 @@ _Videos are embedded in the primary readings this week. I highly recommend watch
 
 Reading Quiz #4 in Canvas (after doing the following readings).
 
-#### Primary reading
-
-
-
-#### Official MySQL docs
+#### Primary reading / Official MySQL docs
 
 - [Installing MySQL on Windows](https://dev.mysql.com/doc/refman/8.4/en/windows-installation.html) (if you're a Windows user)
 - [Installing MySQL on macOS Using Native Packages](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/macos-installation-pkg.html) (if you're a Mac user)
@@ -196,6 +192,7 @@ Reading Quiz #4 in Canvas (after doing the following readings).
  
 #### Short videos
 
+- [Installing MySQL and Creating Databases](https://www.youtube.com/watch?v=wgRwITQHszU)
 - [SQL Create Table and Insert Data](https://youtu.be/LAP9-vu-KgU)
 - [MySQL Workbench Tutorial](https://www.youtube.com/watch?v=X_umYKqKaF0)
 

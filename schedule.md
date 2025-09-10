@@ -202,6 +202,10 @@ Reading Quiz #4 in Canvas (after doing the following readings).
 - Install and troubleshoot MySQL and [MySQL Workbench](https://www.mysql.com/products/workbench/) on your laptop (if you haven't already).
 - Make and break some database(s).
 
+Supplemental resource:
+
+- [pandas.DataFrame.to_sql()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_sql.html)
+
 
 <br/>
 

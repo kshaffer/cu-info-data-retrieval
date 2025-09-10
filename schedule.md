@@ -209,14 +209,30 @@ Reading Quiz #4 in Canvas (after doing the following readings).
 
 ### Prep
 
-- Submit **Assignment 4** at the start of class.
+#### Assignment 4
+
+Use the code that AlexTheAnalyst provided to accompany the video we watched, [available here](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql), and recreate the Parks and Rec database on your local MySQL instance. 
+
+Then write SQL queries that do the following:
+
+- Show all the tables in the database.
+- Show the schema details for one of the tables.
+- Show the first few records for another table.
+- Write a query that uses a `JOIN` to combine data from two tables.
+- Write a query that uses an aggregate function (e.g., `COUNT`, `SUM`, `AVG`) and a `GROUP BY` clause.
+
+_For the latter two, they do not need to be anything fancy, but make sure they are original queries (not anything in AlexTheAnalyst's video or his provided code)._
+
+Finally, make a screencast video **_no more than 2 minutes long_** (preferably less than a minute) in which you show me the database on your machine, and run each of the above queries on it, showing the results. 
+
+I recommend writing and testing the queries ahead of time, ensuring that the results match your expectations, and then copying and pasting the queries into the terminal as you make the video, to be nice to your professor. ;)
+
+Submit the video to Canvas by the start of class.
 
 ### In class
 
-- **Clicker quiz at the start (attendance)** on Notebook 4.  
-- Quiz debrief: constraint violations, foreign key best practices, data loading pitfalls.  
-- **Introduce new topic:** Query performance and optimization — indexing strategies, query execution plans, and optimization techniques.  
-- Workshop time: begin applying indexes to your project schemas.  
+- Review Assignment 4 and CRUD operations.
+- If time: Query performance and optimization — indexing strategies, query execution plans, and optimization techniques.  
 
 
 <br/>

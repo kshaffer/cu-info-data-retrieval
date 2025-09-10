@@ -232,6 +232,7 @@ Submit the video to Canvas by 1:00.
 ### In class
 
 - Review Assignment 4 and CRUD operations.
+- SOURCE and *.sql files.
 - If time: Query performance and optimization — indexing strategies, query execution plans, and optimization techniques.  
 
 

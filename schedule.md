@@ -227,7 +227,7 @@ Finally, make a screencast video **_no more than 2 minutes long_** (preferably l
 
 I recommend writing and testing the queries ahead of time, ensuring that the results match your expectations, and then copying and pasting the queries into the terminal as you make the video, to be nice to your professor. ;)
 
-Submit the video to Canvas by the start of class.
+Submit the video to Canvas by 1:00.
 
 ### In class
 

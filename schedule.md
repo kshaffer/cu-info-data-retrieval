@@ -314,7 +314,7 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 ## Week 7: Tuesday, September 30
 
-- **Mid‑term project due** by 10:00 am (schema SQL, load scripts/notebooks, sample queries, brief report).
+- **Mid‑term project due** by 2:00pm.
 
 ### Prep
 

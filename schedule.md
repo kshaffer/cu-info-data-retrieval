@@ -246,39 +246,23 @@ Submit the video to Canvas by 1:00.
 
 #### Quiz
 
-Reading Quiz #5 in Canvas (after doing the following readings).
+No reading quiz this time, so you can get started on your midterm project.
 
 ### Prep
 
 #### Primary reading
 
-[//]: # (- _MySQL Tutorial_ &#40;PDF&#41;: Multi-table queries & joins — **pp. 23–30** &#40;mysql-tutorial.pdf on Canvas&#41;)
+- [Introduction to Schema](https://planetscale.com/learn/courses/mysql-for-developers/schema/introduction-to-schema?autoplay=1)
+- [Introduction to Database Normalization](https://www.geeksforgeeks.org/dbms/introduction-of-database-normalization/)
+- [Normalization in SQL](https://www.datacamp.com/tutorial/normalization-in-sql) _(only read up through third normal form - 3NF)_
+- [Introduction to Indexes](https://planetscale.com/learn/courses/mysql-for-developers/indexes/introduction-to-indexes?autoplay=1)
+- [B+ Trees](https://planetscale.com/learn/courses/mysql-for-developers/indexes/b-trees?autoplay=1)
 
-[//]: # (- MySQL Performance primer &#40;PDF&#41; — "Indexing and Query Optimization" — **pp. 1–6** &#40;[mysql-performance-primer.pdf]&#40;mysql-performance-primer.pdf&#41;&#41;)
-
-#### Official MySQL docs
-
-[//]: # (- SELECT + JOIN clause &#40;syntax & examples&#41; — [dev.mysql.com/doc/en/select.html]&#40;https://dev.mysql.com/doc/en/select.html&#41;)
-
-[//]: # (- CREATE INDEX — [dev.mysql.com/doc/refman/8.4/en/create-index.html]&#40;https://dev.mysql.com/doc/refman/8.4/en/create-index.html&#41;)
-
-[//]: # (- EXPLAIN &#40;plan inspection&#41; — [dev.mysql.com/doc/en/explain.html]&#40;https://dev.mysql.com/doc/en/explain.html&#41;)
-
-[//]: # (- EXPLAIN output formats — [dev.mysql.com/doc/en/explain-output.html]&#40;https://dev.mysql.com/doc/en/explain-output.html&#41;)
-
-#### Short videos
-
-[//]: # (- MySQL indexing basics — "MySQL Indexes Explained" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=HubezKbFL7E&#41;&#41;)
-
-[//]: # (- EXPLAIN walkthrough — "MySQL EXPLAIN Tutorial" &#40;[YouTube]&#40;https://www.youtube.com/watch?v=oqVXHpklk9w&#41;&#41;)
 
 ### In class
 
-- Quiz debrief: indexing strategies, B-tree concepts, composite vs single-column indexes.  
-- `EXPLAIN` walkthroughs on representative queries from your projects.  
-- Peer review: query plan round‑robin—diagnose and improve slow queries.  
-- Work session with instructor roaming; finalize mid‑term checklist.  
-- **Mid‑term submission portal opens** (accepts until Tue, Sep 30, 10:00 am).
+- Normalization strategies.  
+- Midterm work session for peer and instructor feedback.  
 
 
 <br/>
@@ -287,12 +271,25 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 ### Prep
 
-- Midterm project, ready to demo work-in-progress.
+- Continue work on your midterm project.
+
+Also...
+
+#### Primary Reading
+
+- [Primary Keys](https://planetscale.com/learn/courses/mysql-for-developers/indexes/primary-keys)
+- [Primary Key Data Types](https://planetscale.com/learn/courses/mysql-for-developers/indexes/primary-key-data-types?autoplay=1)
+- [Where to add indexes](https://planetscale.com/learn/courses/mysql-for-developers/indexes/where-to-add-indexes?autoplay=1)
+- [Indexing for wildcard searches](https://planetscale.com/learn/courses/mysql-for-developers/indexes/indexing-for-wildcard-searches?autoplay=1)
+- [Fulltext indexes](https://planetscale.com/learn/courses/mysql-for-developers/indexes/fulltext-indexes?autoplay=1)
+- [Foreign keys](https://planetscale.com/learn/courses/mysql-for-developers/indexes/foreign-keys)
 
 ### In class
 
-- Lightning demos (2–3 min per team): schema overview + one "before/after" query plan.  
-- Peer feedback, followed by brief work/(re)planning time.  
+- Primary keys — choosing fields and data types.
+- Generating keys with the IDE.
+- Indexes — choosing fields and creating indexes.
+- Midterm peer feedback, followed by brief work/(re)planning time.  
 
 
 <br/>
@@ -303,11 +300,20 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 - Continue midterm project work.
 
+Also...
+
+#### Official MySQL docs
+
+- [EXPLAIN Statement](https://dev.mysql.com/doc/refman/8.4/en/explain.html)
+
+_I have found that combining EXPLAIN with ChatGPT is an immensely helpful combination for database debugging and optimization. You can simply run EXPLAIN and cut-and-paste the output into GPT, or you can ask it a specific question about what you are trying to do and how to fix/improve/optimize it._
+
+
 ### In class
 
-- **Clicker quiz at the start (attendance only)**.  
+- `EXPLAIN` walkthroughs.  
+- More on indexes.
 - Midterm debugging and feedback, unit wrap‑up.
-- Introduction to Unit 2: NoSQL databases.
 
 
 <br/>
@@ -315,6 +321,7 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 ## Week 7: Tuesday, September 30
 
 - **Mid‑term project due** by 2:00pm.
+- Introduction to Unit 2: NoSQL databases.
 
 ### Prep
 

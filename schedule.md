@@ -246,7 +246,7 @@ Submit the video to Canvas by 1:00.
 
 #### Quiz
 
-No reading quiz this time, so you can get started on your midterm project.
+No reading quiz this time, so you can get started on your [midterm project](midterm_mysql.md).
 
 ### Prep
 
@@ -271,7 +271,7 @@ No reading quiz this time, so you can get started on your midterm project.
 
 ### Prep
 
-- Continue work on your midterm project.
+- Continue work on your [midterm project](midterm_mysql.md).
 
 Also...
 
@@ -298,7 +298,7 @@ Also...
 
 ### Prep
 
-- Continue midterm project work.
+- Continue [midterm project](midterm_mysql.md) work.
 
 Also...
 
@@ -320,7 +320,7 @@ _I have found that combining EXPLAIN with ChatGPT is an immensely helpful combin
 
 ## Week 7: Tuesday, September 30
 
-- **Mid‑term project due** by 2:00pm.
+- **[Midterm project](midterm_mysql.md) due** by 2:00pm.
 - Introduction to Unit 2: NoSQL databases.
 
 ### Prep

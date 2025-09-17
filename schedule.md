@@ -262,6 +262,10 @@ No reading quiz this time, so you can get started on your [midterm project](midt
 ### In class
 
 - Normalization strategies.  
+We will practice with the following datasets:
+  - [Movie Dataset for Analytics & Visualization](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)
+  - [Startup Companies One-Line Pitches 2025](https://www.kaggle.com/datasets/pratyushpuri/startup-companies-one-line-pitches-2025)
+  - [Funko Pop Product Analysis ](https://www.kaggle.com/datasets/glorysmith/most-successful-funko-pops-2019-2022)
 - Midterm work session for peer and instructor feedback.  
 
 

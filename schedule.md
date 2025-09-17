@@ -237,8 +237,8 @@ Submit the video to Canvas by 1:00.
 
 - Review Assignment 4 and CRUD operations.
 - SOURCE and *.sql files.
-- If time: Query performance and optimization — indexing strategies, query execution plans, and optimization techniques.  
-
+- Pandas to_sql().
+- Introduce database normalization (if time).
 
 <br/>
 

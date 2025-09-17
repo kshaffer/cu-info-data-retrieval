@@ -6,7 +6,7 @@ There will also be two versions of each track: 1) with AI and 2) without AI. I s
 
 In all cases, you won't be asked simply to write code or build a database. You will be asked to make a video walkthrough of your working code, showing that it works and explaining the decisions you made along the way. Reasoning and communicating about your work is almost as important as the work itself, and is only growing in importance as AI is being leveraged to do more and more of that work in the wild.
 
-**_Midterm projects will be due Tuesday, September 20, at 2pm._** If you need an extension for any reason other than a university-approved accommodation, please contact me _well in advance._
+**_Midterm projects will be due Tuesday, September 30, at 2pm._** If you need an extension for any reason other than a university-approved accommodation, please contact me _well in advance._
 
 ## DBA Track
 

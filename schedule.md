@@ -324,16 +324,14 @@ _I have found that combining EXPLAIN with ChatGPT is an immensely helpful combin
 
 ## Week 7: Tuesday, September 30
 
-- **[Midterm project](midterm_mysql.md) due** by 2:00pm.
-- Introduction to Unit 2: NoSQL databases.
 
 ### Prep
 
-- TBA
+- **[Midterm project](midterm_mysql.md) due** by 2:00pm.
 
 ### In class
 
-- TBA
+- Introduction to Unit 2: NoSQL databases.
 
 
 <br/>
@@ -342,11 +340,25 @@ _I have found that combining EXPLAIN with ChatGPT is an immensely helpful combin
 
 ### Prep
 
-- TBA
+Reading Quiz #5 in Canvas (after doing the following readings).
+
+
+#### Required Reading
+
+- [Working with JSON in Python](https://realpython.com/python-json/)
+
+#### Supplemental Video (optional, but helpful)
+
+- [Python Tutorial: Working with JSON Data using the json Module](https://www.youtube.com/watch?v=9N6a-VLBa2I)
+
+#### Extra resources (optional)
+
+- [Python JSON Data: A Guide With Examples](https://www.datacamp.com/tutorial/json-data-python)
 
 ### In class
 
-- TBA
+- Quiz debrief.
+- Practice working with JSON in Python, using data from a public social media API.
 
 
 <br/>

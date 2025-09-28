@@ -17,6 +17,7 @@ Project: Build a MySQL database from scratch, and demonstrate its functionality.
 The project should include the following:
 
 - A MySQL database with at least three tables.
+- _The database should be in third normal form._
 - All MySQL and/or Python code used to create the database, load in the data, and generate keys and indexes.
 - Appropriate use of primary keys, foreign keys, and indexes.
 - At least five queries that demonstrate the functionality of the database, including at least one of each of the following:
@@ -44,6 +45,7 @@ Project: Build a MySQL database from scratch, and demonstrate its functionality.
 The project should include the following:
 
 - A MySQL database with at least three tables.
+- _The database should be in third normal form._
 - All MySQL and/or Python code used to create the database, load in the data, and generate keys and indexes.
 - Appropriate use of primary keys, foreign keys, and indexes.
 - At least five queries that demonstrate the functionality of the database, including at least one of each of the following:

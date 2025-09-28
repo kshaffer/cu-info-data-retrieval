@@ -322,6 +322,8 @@ _I have found that combining EXPLAIN with ChatGPT is an immensely helpful combin
 
 <br/>
 
+# UNIT 2: NoSQL Databases (MongoDB)
+
 ## Week 7: Tuesday, September 30
 
 

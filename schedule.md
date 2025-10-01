@@ -360,7 +360,7 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 ### In class
 
 - Quiz debrief.
-- Practice working with JSON in Python, using data from a public social media API.
+- Practice working with JSON in Python, using data from a public social media API. See [JSON practice notebook](Colab/JSON_practice.ipynb).
 
 
 <br/>
@@ -369,7 +369,15 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 ### Prep
 
-- TBA
+- Install MongoDB on your machine, following the instructions for your OS at [Try MongoDB Community Edition](https://www.mongodb.com/try/download/community).  
+- Do Reading Quiz #6 in Canvas (after doing the following readings).
+
+
+#### Required Reading
+
+- NoSQL for Mere Mortals (in Canvas), pp. 153–195.
+
+
 
 ### In class
 

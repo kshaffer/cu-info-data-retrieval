@@ -407,7 +407,6 @@ NO CLASS!!!
 #### Supplemental Readings (optional, but helpful)
 
 - `mongosh` (MongoDB Shell): [Perform CRUD Commands](https://www.mongodb.com/docs/mongodb-shell/crud/) (Create, Read, Update, Delete)
-- 
 
 
 ### In class

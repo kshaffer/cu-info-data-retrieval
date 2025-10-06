@@ -381,7 +381,9 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 ### In class
 
-- TBA
+- More JSON Practice.
+- Quiz debrief.
+- MongoDB basic operations and testing.
 
 
 <br/>
@@ -390,13 +392,6 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 NO CLASS!!!
 
-### Prep
-
-- TBA
-
-### In class
-
-- TBA
 
 
 <br/>
@@ -405,11 +400,23 @@ NO CLASS!!!
 
 ### Prep
 
-- TBA
+- Do Reading Quiz #7 in Canvas (after doing the following readings).
+
+
+#### Required Reading
+
+- [Introduction to MongoDB and Python](https://realpython.com/introduction-to-mongodb-and-python/)
+
+#### Supplemental Readings (optional, but helpful)
+
+- `mongosh` (MongoDB Shell): [Perform CRUD Commands](https://www.mongodb.com/docs/mongodb-shell/crud/) (Create, Read, Update, Delete)
+- 
+
 
 ### In class
 
-- TBA
+- Quiz debrief.
+- MongoDB CRUD operations practice, in `mongosh` and Python (`pymongo`).
 
 
 <br/>

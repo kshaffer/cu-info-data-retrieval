@@ -400,9 +400,6 @@ NO CLASS!!!
 
 ### Prep
 
-- Do Reading Quiz #7 in Canvas (after doing the following readings).
-
-
 #### Required Reading
 
 - [Introduction to MongoDB and Python](https://realpython.com/introduction-to-mongodb-and-python/)

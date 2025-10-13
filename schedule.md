@@ -367,6 +367,20 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 ## Week 8: Tuesday, October 7
 
+NO CLASS (Kris had Covid)
+
+<br/>
+
+## Week 8: Thursday, October 9
+
+NO CLASS!!!
+
+
+
+<br/>
+
+## Week 9: Tuesday, October 14
+
 ### Prep
 
 - Install MongoDB on your machine, following the instructions for your OS at [Try MongoDB Community Edition](https://www.mongodb.com/try/download/community).  
@@ -388,15 +402,7 @@ Reading Quiz #5 in Canvas (after doing the following readings).
 
 <br/>
 
-## Week 8: Thursday, October 9
-
-NO CLASS!!!
-
-
-
-<br/>
-
-## Week 9: Tuesday, October 14
+## Week 9: Thursday, October 16
 
 ### Prep
 
@@ -413,20 +419,6 @@ NO CLASS!!!
 
 - Quiz debrief.
 - MongoDB CRUD operations practice, in `mongosh` and Python (`pymongo`).
-
-
-<br/>
-
-## Week 9: Thursday, October 16
-
-### Prep
-
-- TBA
-
-### In class
-
-- TBA
-
 
 <br/>
 

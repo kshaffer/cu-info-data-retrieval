@@ -417,8 +417,9 @@ NO CLASS!!!
 
 ### In class
 
-- Quiz debrief.
-- MongoDB CRUD operations practice, in `mongosh` and Python (`pymongo`).
+- Verify working MongoDB installation.
+- MongoDB CRUD operations practice, in `mongosh` and Python (`pymongo`) using [this notebook](Colab/Pymongo_Startup.ipynb).
+- 
 
 <br/>
 
@@ -426,11 +427,19 @@ NO CLASS!!!
 
 ### Prep
 
-- TBA
+- Complete the [Pymongo_Startup.ipynb](Colab/Pymongo_Startup.ipynb) notebook and submit to Canvas.
+- Reading Quiz #7 in Canvas (after doing the following readings).
+
+#### Required Reading
+
+- Pymongo documentation: [CRUD Operations](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/crud/)
+- Pymongo documentation: [Query Documents](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/crud/query/)
+- Pymongo documentation: [Find Documents](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/crud/query/find/)
 
 ### In class
 
-- TBA
+- Quiz debrief.
+- From API to MongoDB practice.
 
 
 <br/>

@@ -472,13 +472,15 @@ NO CLASS!!!
 - Complete the [Pymongo_Query_Basics.ipynb](Colab/Pymongo_Query_Basics.ipynb) notebook and submit to Canvas.
 - Reading Quiz #8 in Canvas (after doing the following readings).
 
+_NOTE: There is more information in the reading this weekend, especially towards the end of the chapter, than we will interact with in our notebooks and project. Let the quiz guide you regarding what is most important, and we'll reinforce that with our notebook work in class this week._
+
 #### Required Reading
 
 - _MongoDB, The Definitive Guide_: Ch. 7, Introduction to the Aggregation Framework (in Canvas).
+- [Aggregation](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/aggregation/)
 
 #### Pymongo Documentation (optional, but helpful)
 
-- [Aggregation](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/aggregation/)
 - [Aggregation Pipeline](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
 - [MongoDB Query Operators](https://www.w3schools.com/mongodb/mongodb_query_operators.php)
 - [MongoDB Update Operators](https://www.w3schools.com/mongodb/mongodb_update_operators.php)

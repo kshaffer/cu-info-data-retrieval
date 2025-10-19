@@ -474,7 +474,7 @@ NO CLASS!!!
 
 #### Required Reading
 
-
+- _MongoDB, The Definitive Guide_: Ch. 7, Introduction to the Aggregation Framework (in Canvas).
 
 #### Pymongo Documentation (optional, but helpful)
 

@@ -439,7 +439,7 @@ NO CLASS!!!
 ### In class
 
 - Quiz debrief.
-- From API to MongoDB practice.
+- Pair coding with the [PyMongo Query Basics notebook](Colab/Pymongo_Query_Basics.ipynb).
 
 
 <br/>
@@ -448,11 +448,19 @@ NO CLASS!!!
 
 ### Prep
 
-- TBA
+- No reading quiz, but read the following and have it handy in class.
+
+#### Required Reading
+
+- [23 Common MongoDB Query Operators & How to Use Them](https://www.bmc.com/blogs/mongodb-operators/)
+
+#### Supplemental Reading (optional)
+
+- [MongoDB Cheat Sheet](https://www.geeksforgeeks.org/mongodb/mongodb-cheat-sheet/#)
 
 ### In class
 
-- TBA
+- More pair coding with the [PyMongo Query Basics notebook](Colab/Pymongo_Query_Basics.ipynb).
 
 
 <br/>
@@ -461,7 +469,19 @@ NO CLASS!!!
 
 ### Prep
 
-- TBA
+- Complete the [Pymongo_Query_Basics.ipynb](Colab/Pymongo_Query_Basics.ipynb) notebook and submit to Canvas.
+- Reading Quiz #8 in Canvas (after doing the following readings).
+
+#### Required Reading
+
+
+
+#### Pymongo Documentation (optional, but helpful)
+
+- [Aggregation](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/aggregation/)
+- [Aggregation Pipeline](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
+- [MongoDB Query Operators](https://www.w3schools.com/mongodb/mongodb_query_operators.php)
+- [MongoDB Update Operators](https://www.w3schools.com/mongodb/mongodb_update_operators.php)
 
 ### In class
 

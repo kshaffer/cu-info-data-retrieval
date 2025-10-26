@@ -487,7 +487,10 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### In class
 
-- TBA
+- [Pymongo_Query_Basics.ipynb](Colab/Pymongo_Query_Basics.ipynb) debrief.
+- Reading quiz debrief.
+- Introduction to aggregation framework and pipeline stages.
+- Pair coding: [Pymongo_Aggregation.ipynb](Colab/Pymongo_Aggregation.ipynb).
 
 
 <br/>
@@ -496,11 +499,11 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- No required reading or notebook, but review any concepts from the past couple readings that you found challenging in our notebook work on Tuesday.
 
 ### In class
 
-- TBA
+- More pair coding: [Pymongo_Aggregation.ipynb](Colab/Pymongo_Aggregation.ipynb).
 
 
 <br/>
@@ -509,7 +512,13 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- Complete the [Pymongo_Aggregation.ipynb](Colab/Pymongo_Aggregation.ipynb) notebook and submit to Canvas.
+- Reading Quiz #9 in Canvas (after doing the following readings).
+
+#### Required Reading
+
+_Coming soon..._
+
 
 ### In class
 

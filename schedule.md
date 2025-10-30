@@ -517,12 +517,14 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 #### Required Reading
 
-_Coming soon..._
+- _MongoDB, The Definitive Guide_: Ch. 4, Indexes (in Canvas).
 
 
 ### In class
 
-- TBA
+- [Pymongo_Aggregation.ipynb](Colab/Pymongo_Aggregation.ipynb) debrief.
+- Introduction to indexes.
+- Introducing the MongoDB midterm project.
 
 
 <br/>

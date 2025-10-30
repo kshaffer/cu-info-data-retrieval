@@ -518,7 +518,7 @@ _NOTE: There is more information in the reading this weekend, especially towards
 #### Required Reading
 
 - _MongoDB, The Definitive Guide_: Ch. 4, Indexes (in Canvas).
-
+- PyMongo documentation: [Indexes](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/indexes/).
 
 ### In class
 

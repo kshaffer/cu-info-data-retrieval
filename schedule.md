@@ -522,10 +522,9 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### In class
 
-- [Pymongo_Aggregation.ipynb](Colab/Pymongo_Aggregation.ipynb) debrief.
-- Introduction to indexes.
 - Introducing the MongoDB midterm project.
-
+- [Pymongo_Aggregation.ipynb](Colab/Pymongo_Aggregation.ipynb) debrief.
+- Indexes and text searches in [Pymongo_indexing_and_text_search.ipynb](Colab/Pymongo_Indexing_and_text_search.ipynb).
 
 <br/>
 
@@ -533,11 +532,11 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- No daily assignment, just get started on the [midterm project](midterm_mongodb.md).
 
 ### In class
 
-- TBA
+- Indexes and text searches in [Pymongo_indexing_and_text_search.ipynb](Colab/Pymongo_Indexing_and_text_search.ipynb).
 
 
 <br/>
@@ -546,11 +545,13 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- Complete [Pymongo_indexing_and_text_search.ipynb](Colab/Pymongo_Indexing_and_text_search.ipynb) and submit to Canvas.
+- Reading Quiz #10 (after doing the following readings).
+- Continue work on your [midterm project](midterm_mongodb.md).
 
 ### In class
 
-- TBA
+- Intro to vector databases and vector embeddings.
 
 
 <br/>
@@ -559,11 +560,11 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- Continue work on your [midterm project](midterm_mongodb.md).
 
 ### In class
 
-- TBA
+- More on vector databases and vector embeddings.
 
 
 <br/>
@@ -572,7 +573,7 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- [Midterm project](midterm_mongodb.md) due in Canvas.
 
 ### In class
 

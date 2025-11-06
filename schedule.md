@@ -549,6 +549,11 @@ _NOTE: There is more information in the reading this weekend, especially towards
 - Reading Quiz #10 (after doing the following readings).
 - Continue work on your [midterm project](midterm_mongodb.md).
 
+#### Required Reading
+
+- _Vector Databases_ (early release edition): Ch. 1, Introduction to Vector Databases (in Canvas).
+- _Vector Databases_ (early release edition): Ch. 2, Embeddings (in Canvas).
+
 ### In class
 
 - Intro to vector databases and vector embeddings.

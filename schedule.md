@@ -556,7 +556,7 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### In class
 
-- Intro to vector databases and vector embeddings.
+- Intro to vector databases and vector embeddings with [VectorDBs_Sentence_Embeddings.ipynb](Colab/VectorDBs_Sentence_Embeddings.ipynb).
 
 
 <br/>

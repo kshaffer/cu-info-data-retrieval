@@ -1,0 +1,926 @@
+Paris is the capital of France.
+Pasta is made from wheat.
+A latte combines espresso with steamed milk.
+Cars drive on the road.
+Airplanes fly in the sky.
+Abraham Lincoln was the 16th president of the United States.
+There was no year zero in the CE/BCE calendar system.
+Water boils at 100 degrees Celsius at sea level.
+The Earth orbits around the Sun.
+Dogs are domesticated animals.
+Cats are members of the Felidae family.
+Rome is the capital of Italy.
+Madrid is the capital of Spain.
+Berlin is the capital of Germany.
+London is the capital of the United Kingdom.
+Tokyo is the capital of Japan.
+Beijing is the capital of China.
+Moscow is the capital of Russia.
+Washington D.C. is the capital of the United States.
+Ottawa is the capital of Canada.
+Canberra is the capital of Australia.
+The Pacific Ocean is the largest ocean on Earth.
+The Atlantic Ocean separates Europe from North America.
+Mount Everest is the tallest mountain on Earth.
+The Sahara is the largest hot desert in the world.
+The Amazon River is the second longest river in the world.
+The Nile River is the longest river in the world.
+Gold is a precious metal with the chemical symbol Au.
+Silver has the chemical symbol Ag.
+Iron has the chemical symbol Fe.
+Copper has the chemical symbol Cu.
+Oxygen is essential for human respiration.
+Carbon dioxide is produced when humans exhale.
+Photosynthesis is the process by which plants make food.
+The Sun is a star at the center of our solar system.
+The Moon orbits the Earth.
+Mars is known as the Red Planet.
+Jupiter is the largest planet in our solar system.
+Saturn has distinctive rings made of ice and rock.
+Mercury is the closest planet to the Sun.
+Venus is the hottest planet in our solar system.
+Neptune is the eighth planet from the Sun.
+Uranus rotates on its side compared to other planets.
+Pluto was reclassified as a dwarf planet in 2006.
+A year on Earth is 365.25 days long.
+The Earth has one natural satellite, the Moon.
+The speed of light is approximately 299,792 kilometers per second.
+Sound travels faster through solids than through gases.
+Albert Einstein developed the theory of relativity.
+Isaac Newton formulated the laws of motion.
+Galileo Galilei is known as the father of modern science.
+Marie Curie discovered polonium and radium.
+Charles Darwin proposed the theory of evolution by natural selection.
+DNA stands for deoxyribonucleic acid.
+RNA stands for ribonucleic acid.
+The human body has 206 bones in adulthood.
+The human heart has four chambers.
+Red blood cells carry oxygen throughout the body.
+White blood cells fight infections.
+The brain is the control center of the nervous system.
+The liver is the largest internal organ in the human body.
+The skin is the largest organ of the human body overall.
+Humans have five basic senses: sight, hearing, taste, smell, and touch.
+The tongue detects five basic tastes: sweet, sour, salty, bitter, and umami.
+Teeth are used for chewing food.
+The stomach produces acid to digest food.
+The small intestine absorbs nutrients from food.
+The large intestine absorbs water from waste.
+The kidneys filter waste from the blood.
+The lungs facilitate breathing and gas exchange.
+The pancreas produces insulin to regulate blood sugar.
+The thyroid gland regulates metabolism.
+Neurons are the basic cells of the nervous system.
+Muscles contract to produce movement.
+Bones provide structure and support for the body.
+Joints connect bones and allow movement.
+Cartilage cushions joints and prevents bone friction.
+Blood circulates through arteries, veins, and capillaries.
+The aorta is the largest artery in the body.
+The vena cava is the largest vein in the body.
+Red is a primary color.
+Blue is a primary color.
+Yellow is a primary color.
+Green is created by mixing blue and yellow.
+Orange is created by mixing red and yellow.
+Purple is created by mixing red and blue.
+A triangle has three sides.
+A square has four equal sides.
+A rectangle has four sides with opposite sides equal.
+A circle is a round shape with no corners.
+A pentagon has five sides.
+A hexagon has six sides.
+An octagon has eight sides.
+A right angle measures 90 degrees.
+A straight angle measures 180 degrees.
+A full circle measures 360 degrees.
+Pi is approximately 3.14159.
+One plus one equals two.
+Two times two equals four.
+Ten divided by two equals five.
+Zero is neither positive nor negative.
+The number one is the first natural number.
+Prime numbers are only divisible by one and themselves.
+Two is the only even prime number.
+The Pythagorean theorem states that a squared plus b squared equals c squared.
+The area of a circle is pi times the radius squared.
+The circumference of a circle is two pi times the radius.
+The square root of nine is three.
+The cube of two is eight.
+Fractions represent parts of a whole.
+Decimals are another way to represent fractions.
+Percentages are fractions out of 100.
+Shakespeare wrote Romeo and Juliet.
+Leonardo da Vinci painted the Mona Lisa.
+Michelangelo painted the Sistine Chapel ceiling.
+Vincent van Gogh painted Starry Night.
+Pablo Picasso was a Spanish painter and sculptor.
+The Beatles were a famous rock band from Liverpool.
+Elvis Presley was known as the King of Rock and Roll.
+Mozart was a classical composer from Austria.
+Beethoven composed nine symphonies.
+Bach was a Baroque composer.
+The piano has 88 keys.
+A violin has four strings.
+A guitar typically has six strings.
+A drum is a percussion instrument.
+A flute is a woodwind instrument.
+A trumpet is a brass instrument.
+Music is written on a staff with five lines.
+There are seven notes in a major scale.
+The treble clef is also called the G clef.
+The bass clef is also called the F clef.
+A whole note lasts for four beats.
+A half note lasts for two beats.
+A quarter note lasts for one beat.
+Soccer is called football in most countries outside North America.
+A soccer match has two teams of eleven players each.
+Basketball was invented by James Naismith.
+A basketball team has five players on the court.
+Baseball uses a bat and ball.
+A baseball diamond has four bases.
+Tennis is played on a court with a net.
+Golf is played on a course with 18 holes.
+Swimming is both a sport and a form of exercise.
+Running is a cardiovascular exercise.
+The Olympics are held every four years.
+The Summer Olympics and Winter Olympics alternate every two years.
+The marathon is a long-distance running race of 42.195 kilometers.
+A touchdown in American football is worth six points.
+A field goal in American football is worth three points.
+Hockey is played on ice with skates and sticks.
+Boxing is a combat sport using fists.
+Wrestling is a grappling combat sport.
+Cycling involves riding a bicycle.
+Skiing is done on snow using skis.
+Surfing is done on ocean waves with a surfboard.
+Rock climbing involves ascending rock formations.
+Yoga is a practice combining physical poses and meditation.
+The Eiffel Tower is located in Paris, France.
+The Statue of Liberty is located in New York Harbor.
+The Great Wall of China stretches over 13,000 miles.
+The Taj Mahal is located in Agra, India.
+The Colosseum is an ancient amphitheater in Rome, Italy.
+The Pyramids of Giza are located in Egypt.
+Machu Picchu is an ancient Incan city in Peru.
+Stonehenge is a prehistoric monument in England.
+The Leaning Tower of Pisa is in Italy.
+Big Ben is the nickname for the Great Bell in London.
+The Sydney Opera House is in Australia.
+Christ the Redeemer statue is in Rio de Janeiro, Brazil.
+The Golden Gate Bridge is in San Francisco, California.
+The Empire State Building is in New York City.
+The Burj Khalifa in Dubai is the tallest building in the world.
+Coffee is made from roasted coffee beans.
+Tea is made from the leaves of the Camellia sinensis plant.
+Chocolate is made from cacao beans.
+Bread is made by baking dough.
+Pizza originated in Italy.
+Sushi is a Japanese dish featuring rice and often raw fish.
+Tacos are a Mexican food consisting of a tortilla with filling.
+Hamburgers consist of a patty between two buns.
+Hot dogs are sausages served in a sliced bun.
+French fries are deep-fried potato strips.
+Ice cream is a frozen dairy dessert.
+Cheese is made from milk.
+Butter is made from cream.
+Yogurt is made by fermenting milk.
+Honey is made by bees from flower nectar.
+Eggs come from chickens and other birds.
+Apples grow on trees.
+Bananas grow on plants in tropical climates.
+Oranges are citrus fruits rich in vitamin C.
+Grapes grow on vines.
+Strawberries are red berries with seeds on the outside.
+Tomatoes are technically fruits but used as vegetables.
+Carrots are root vegetables that are typically orange.
+Potatoes are starchy tubers grown underground.
+Lettuce is a leafy green vegetable.
+Broccoli is a green vegetable with a tree-like structure.
+Spinach is a leafy green vegetable high in iron.
+Corn is a cereal grain also known as maize.
+Rice is a staple food for much of the world's population.
+Wheat is used to make flour for bread and pasta.
+Oats are used to make oatmeal.
+Barley is a cereal grain used in soups and beer.
+Beans are legumes high in protein.
+Peanuts are legumes, not true nuts.
+Almonds are tree nuts.
+Walnuts are tree nuts with a distinctive brain-like appearance.
+Cashews are tree nuts that grow on cashew apple trees.
+Coconuts are tropical fruits with hard shells.
+Pineapples are tropical fruits with spiky skin.
+Watermelons are large fruits with red flesh and black seeds.
+Mangoes are tropical stone fruits.
+Peaches are stone fruits with fuzzy skin.
+Cherries are small stone fruits.
+Avocados are fruits with creamy green flesh.
+Cucumbers are fruits commonly used as vegetables.
+Peppers come in many varieties including bell peppers and chili peppers.
+Onions are bulb vegetables with a strong flavor.
+Garlic is a pungent bulb used for flavoring food.
+Salt is a mineral used to season food.
+Pepper is a spice made from ground peppercorns.
+Sugar is a sweet carbohydrate used in cooking and baking.
+Vinegar is an acidic liquid used in cooking and pickling.
+Oil is used for cooking and frying food.
+Milk comes from mammals, most commonly cows.
+Water is essential for all known forms of life.
+Humans need to drink water daily to survive.
+The human body is approximately 60% water.
+Dehydration occurs when the body loses more water than it takes in.
+Fish live in water and breathe through gills.
+Sharks are fish that have cartilaginous skeletons.
+Dolphins are mammals, not fish.
+Whales are the largest mammals on Earth.
+Elephants are the largest land mammals.
+Giraffes are the tallest land animals.
+Lions are large cats known as the king of the jungle.
+Tigers are the largest cat species.
+Bears are large mammals with thick fur.
+Pandas are bears that primarily eat bamboo.
+Monkeys are primates with tails.
+Apes are primates without tails, including gorillas and chimpanzees.
+Humans are classified as great apes.
+Birds have feathers and lay eggs.
+Most birds can fly, but some like penguins and ostriches cannot.
+Eagles are large birds of prey with excellent vision.
+Owls are nocturnal birds of prey.
+Parrots are colorful birds that can mimic human speech.
+Peacocks are known for their colorful tail feathers.
+Flamingos are pink birds that stand on one leg.
+Penguins are flightless birds that live in cold climates.
+Chickens are domesticated birds raised for eggs and meat.
+Ducks are waterfowl with webbed feet.
+Swans are large white waterfowl.
+Hummingbirds are tiny birds that can hover in place.
+Woodpeckers use their beaks to drill into tree bark.
+Crows are intelligent black birds.
+Seagulls are coastal birds often seen near oceans.
+Snakes are reptiles without legs.
+Lizards are reptiles with four legs and tails.
+Crocodiles are large reptiles that live in water.
+Alligators are similar to crocodiles but with broader snouts.
+Turtles have shells that protect their bodies.
+Tortoises are land-dwelling turtles.
+Frogs are amphibians that live both in water and on land.
+Toads are amphibians similar to frogs but with drier, bumpier skin.
+Salamanders are amphibians with long tails.
+Insects have six legs and three body segments.
+Ants are social insects that live in colonies.
+Bees produce honey and pollinate flowers.
+Wasps are insects similar to bees but more aggressive.
+Butterflies are insects with colorful wings.
+Moths are insects similar to butterflies but typically nocturnal.
+Flies are insects with only two wings.
+Mosquitoes are small flying insects that bite and suck blood.
+Spiders have eight legs and are arachnids, not insects.
+Scorpions are arachnids with stingers on their tails.
+Crabs are crustaceans with hard shells and claws.
+Lobsters are large marine crustaceans.
+Shrimp are small crustaceans commonly eaten as seafood.
+Octopuses have eight arms and are highly intelligent.
+Squid are cephalopods related to octopuses.
+Jellyfish are marine animals with translucent bodies and stinging tentacles.
+Starfish have five arms and regenerate lost limbs.
+Coral reefs are made up of colonies of tiny animals called polyps.
+Seaweed is a type of marine algae.
+Mushrooms are fungi, not plants.
+Trees are large plants with woody stems.
+Flowers are the reproductive structures of flowering plants.
+Grass is a type of plant with narrow leaves.
+Cactuses are plants adapted to dry environments with thick, water-storing stems.
+Roses are popular flowering plants with thorny stems.
+Tulips are flowering plants that grow from bulbs.
+Sunflowers are tall plants with large yellow flower heads.
+Dandelions are common plants often considered weeds.
+Ivy is a climbing plant that can grow on walls and trees.
+Ferns are plants that reproduce using spores rather than seeds.
+Moss is a small, non-vascular plant that grows in moist areas.
+Algae are simple photosynthetic organisms found in water.
+Bacteria are microscopic single-celled organisms.
+Viruses are infectious agents smaller than bacteria.
+Antibiotics kill bacteria but do not work against viruses.
+Vaccines help the immune system fight diseases.
+The common cold is caused by viruses.
+Influenza is a viral infection commonly called the flu.
+Pneumonia is an infection of the lungs.
+Diabetes is a disease affecting blood sugar regulation.
+Cancer is a disease characterized by abnormal cell growth.
+Asthma is a respiratory condition causing breathing difficulties.
+Allergies are immune system reactions to harmless substances.
+Malaria is a disease transmitted by mosquitoes.
+Tuberculosis is a bacterial infection affecting the lungs.
+Computers process data using electronic circuits.
+The Internet is a global network of connected computers.
+Email stands for electronic mail.
+A website is a collection of web pages accessible via the Internet.
+A web browser is software used to access websites.
+Google is a popular search engine.
+Social media platforms allow users to share content and interact online.
+Smartphones are mobile phones with advanced computing capabilities.
+Tablets are portable touchscreen computers.
+Laptops are portable personal computers.
+Desktops are stationary personal computers.
+A mouse is an input device used to control a computer cursor.
+A keyboard is an input device used to type text.
+A monitor is an output device that displays visual information.
+Printers produce physical copies of digital documents.
+Scanners convert physical documents into digital images.
+USB stands for Universal Serial Bus.
+Wi-Fi is a wireless networking technology.
+Bluetooth is a short-range wireless technology.
+Software is a set of instructions that tells a computer what to do.
+Hardware refers to the physical components of a computer.
+An operating system manages computer hardware and software resources.
+Windows is an operating system developed by Microsoft.
+macOS is an operating system developed by Apple.
+Linux is an open-source operating system.
+Applications are programs designed to perform specific tasks.
+Files store data on a computer.
+Folders organize files into hierarchical structures.
+Saving a file stores it permanently on a storage device.
+Deleting a file removes it from the file system.
+Copying creates a duplicate of a file.
+Pasting inserts copied content into a new location.
+Cut removes content from one location to be pasted elsewhere.
+Undo reverses the last action performed.
+Redo repeats an action that was undone.
+Programming is the process of writing computer code.
+Python is a popular programming language.
+Java is a widely-used programming language.
+JavaScript is a programming language used for web development.
+HTML stands for Hypertext Markup Language.
+CSS stands for Cascading Style Sheets.
+A database stores organized collections of data.
+SQL is a language used to query databases.
+Algorithms are step-by-step procedures for solving problems.
+Artificial intelligence refers to machines that can perform tasks requiring human-like intelligence.
+Machine learning is a subset of AI where systems learn from data.
+Cloud computing delivers computing services over the Internet.
+Encryption protects data by converting it into code.
+A password is a secret word or phrase used for authentication.
+Hackers are people who gain unauthorized access to computer systems.
+Firewalls protect networks from unauthorized access.
+Viruses are malicious software programs that replicate themselves.
+Malware is software designed to harm or exploit computers.
+Spam refers to unsolicited electronic messages.
+Phishing is a scam where attackers try to steal sensitive information.
+Backup copies protect data from loss.
+A server is a computer that provides services to other computers.
+A client is a computer that requests services from a server.
+Bandwidth measures the data transfer capacity of a network.
+Latency is the delay in data transmission over a network.
+Pixels are the smallest units of a digital image.
+Resolution refers to the number of pixels in an image or display.
+Streaming delivers media content in real-time over the Internet.
+Podcasts are digital audio programs available for download or streaming.
+E-books are digital versions of printed books.
+Video games are electronic games played on computers or consoles.
+Virtual reality creates immersive simulated environments.
+Augmented reality overlays digital information onto the real world.
+GPS stands for Global Positioning System.
+Satellites orbit the Earth and provide communication and navigation services.
+Radar uses radio waves to detect objects.
+Sonar uses sound waves to detect underwater objects.
+Electricity is the flow of electrical charge.
+A battery stores chemical energy and converts it to electrical energy.
+A generator converts mechanical energy into electrical energy.
+Solar panels convert sunlight into electricity.
+Wind turbines generate electricity from wind energy.
+Hydroelectric power generates electricity from flowing water.
+Nuclear power generates electricity from nuclear reactions.
+Fossil fuels include coal, oil, and natural gas.
+Renewable energy sources can be replenished naturally.
+Global warming refers to the increase in Earth's average temperature.
+Climate change refers to long-term changes in temperature and weather patterns.
+Greenhouse gases trap heat in the Earth's atmosphere.
+Carbon dioxide is a greenhouse gas produced by burning fossil fuels.
+Deforestation is the clearing of forests.
+Pollution is the introduction of harmful substances into the environment.
+Recycling converts waste materials into new products.
+Composting breaks down organic waste into nutrient-rich soil.
+Conservation is the protection and preservation of natural resources.
+Biodiversity refers to the variety of life on Earth.
+An ecosystem is a community of living organisms and their environment.
+The food chain shows how energy flows through an ecosystem.
+Predators hunt and eat other animals.
+Prey are animals that are hunted by predators.
+Herbivores eat only plants.
+Carnivores eat only meat.
+Omnivores eat both plants and meat.
+Scavengers feed on dead animals.
+Decomposers break down dead organic matter.
+Symbiosis is a close relationship between two different species.
+Mutualism is a symbiotic relationship where both species benefit.
+Parasitism is a symbiotic relationship where one species benefits and the other is harmed.
+Commensalism is a symbiotic relationship where one species benefits and the other is unaffected.
+Migration is the seasonal movement of animals from one region to another.
+Hibernation is a state of inactivity and lowered metabolism during winter.
+Camouflage helps animals blend in with their environment.
+Mimicry is when one species resembles another for protection.
+Cells are the basic units of life.
+Prokaryotic cells lack a nucleus.
+Eukaryotic cells have a nucleus.
+The cell membrane controls what enters and exits the cell.
+The nucleus contains the cell's genetic material.
+Mitochondria produce energy for the cell.
+Chloroplasts perform photosynthesis in plant cells.
+Ribosomes synthesize proteins.
+The endoplasmic reticulum transports materials within the cell.
+The Golgi apparatus packages and distributes proteins.
+Cell division is the process by which cells reproduce.
+Mitosis produces two identical daughter cells.
+Meiosis produces four genetically diverse sex cells.
+Chromosomes carry genetic information in the form of DNA.
+Genes are segments of DNA that code for specific traits.
+Alleles are different versions of the same gene.
+Dominant alleles mask the effects of recessive alleles.
+Recessive alleles are only expressed when two copies are present.
+Genotype refers to an organism's genetic makeup.
+Phenotype refers to an organism's observable characteristics.
+Mutation is a change in DNA sequence.
+Natural selection is the process by which advantageous traits become more common.
+Adaptation is the process by which organisms become better suited to their environment.
+Speciation is the formation of new species.
+Extinction is the complete disappearance of a species.
+Fossils are preserved remains of ancient organisms.
+Dinosaurs were reptiles that lived millions of years ago.
+The Jurassic Period was part of the Mesozoic Era.
+The Ice Age was a period of extensive glaciation.
+Homo sapiens is the scientific name for modern humans.
+Neanderthals were an extinct species of humans.
+The Stone Age was a prehistoric period when stone tools were used.
+The Bronze Age was characterized by the use of bronze tools.
+The Iron Age was characterized by the use of iron tools.
+Ancient Egypt was a civilization along the Nile River.
+The pharaohs were rulers of ancient Egypt.
+Pyramids served as tombs for Egyptian pharaohs.
+Hieroglyphics were the writing system of ancient Egypt.
+Ancient Greece was the birthplace of democracy.
+The Olympic Games originated in ancient Greece.
+The Parthenon is a temple in Athens dedicated to Athena.
+Ancient Rome was a powerful empire in Europe.
+The Roman Empire lasted from 27 BCE to 476 CE.
+Julius Caesar was a Roman general and dictator.
+The Colosseum hosted gladiatorial contests in Rome.
+The Roman alphabet is the basis for the English alphabet.
+Latin was the language of ancient Rome.
+The Middle Ages lasted roughly from the 5th to the 15th century.
+Knights were armored warriors in medieval Europe.
+Castles were fortified residences built during the Middle Ages.
+The Renaissance was a period of cultural rebirth in Europe.
+The printing press was invented by Johannes Gutenberg.
+Christopher Columbus sailed to the Americas in 1492.
+The American Revolution began in 1775.
+The Declaration of Independence was signed in 1776.
+George Washington was the first president of the United States.
+Thomas Jefferson wrote the Declaration of Independence.
+The French Revolution began in 1789.
+Napoleon Bonaparte was a French military leader and emperor.
+The Industrial Revolution transformed manufacturing and society.
+The steam engine powered the Industrial Revolution.
+The telephone was invented by Alexander Graham Bell.
+The light bulb was invented by Thomas Edison.
+The airplane was invented by the Wright brothers.
+World War I lasted from 1914 to 1918.
+World War II lasted from 1939 to 1945.
+Adolf Hitler was the dictator of Nazi Germany.
+The Holocaust was the genocide of six million Jews during World War II.
+The atomic bomb was used to end World War II.
+The Cold War was a period of tension between the United States and Soviet Union.
+The Berlin Wall divided East and West Berlin from 1961 to 1989.
+The Vietnam War lasted from 1955 to 1975.
+Neil Armstrong was the first person to walk on the Moon in 1969.
+The Internet was developed in the late 20th century.
+The European Union is a political and economic union of European countries.
+The United Nations is an international organization promoting peace and cooperation.
+Nelson Mandela fought against apartheid in South Africa.
+Martin Luther King Jr. was a leader of the American civil rights movement.
+Mahatma Gandhi led India's independence movement through nonviolent resistance.
+The Great Depression was a severe economic downturn in the 1930s.
+The stock market crash of 1929 triggered the Great Depression.
+Franklin D. Roosevelt was president during the Great Depression and World War II.
+Winston Churchill was the British prime minister during World War II.
+The Soviet Union dissolved in 1991.
+The Euro is the currency used by many European Union countries.
+The Titanic sank in 1912 after hitting an iceberg.
+The Panama Canal connects the Atlantic and Pacific Oceans.
+The Suez Canal connects the Mediterranean Sea and Red Sea.
+Antarctica is the coldest continent on Earth.
+The Arctic is the region around the North Pole.
+Greenland is the world's largest island.
+Iceland is an island nation in the North Atlantic.
+New Zealand consists of two main islands in the Pacific Ocean.
+Hawaii is a U.S. state consisting of islands in the Pacific Ocean.
+Alaska is the largest U.S. state by area.
+Texas is the second largest U.S. state by area.
+California is the most populous U.S. state.
+New York City is the most populous city in the United States.
+Los Angeles is the second most populous U.S. city.
+Chicago is the third most populous U.S. city.
+Mexico City is one of the largest cities in the world.
+São Paulo is the largest city in Brazil.
+Buenos Aires is the capital of Argentina.
+Cairo is the capital of Egypt.
+Lagos is the largest city in Nigeria.
+Johannesburg is the largest city in South Africa.
+Mumbai is the most populous city in India.
+Delhi is the capital of India.
+Shanghai is the most populous city in China.
+Hong Kong is a special administrative region of China.
+Seoul is the capital of South Korea.
+Bangkok is the capital of Thailand.
+Singapore is a city-state in Southeast Asia.
+Jakarta is the capital of Indonesia.
+Manila is the capital of the Philippines.
+Hanoi is the capital of Vietnam.
+Istanbul straddles Europe and Asia across the Bosphorus Strait.
+Athens is the capital of Greece.
+Vienna is the capital of Austria.
+Prague is the capital of the Czech Republic.
+Warsaw is the capital of Poland.
+Stockholm is the capital of Sweden.
+Copenhagen is the capital of Denmark.
+Oslo is the capital of Norway.
+Helsinki is the capital of Finland.
+Dublin is the capital of Ireland.
+Lisbon is the capital of Portugal.
+Brussels is the capital of Belgium.
+Amsterdam is the capital of the Netherlands.
+Bern is the capital of Switzerland.
+Reykjavik is the capital of Iceland.
+Montreal is the largest city in Quebec, Canada.
+Vancouver is a major city in British Columbia, Canada.
+Toronto is the largest city in Canada.
+The Great Lakes are five large freshwater lakes in North America.
+Lake Superior is the largest of the Great Lakes.
+The Mississippi River is one of the longest rivers in North America.
+The Colorado River carved the Grand Canyon.
+Niagara Falls is located on the border between the U.S. and Canada.
+Yellowstone was the first national park in the United States.
+The Grand Canyon is a massive gorge in Arizona.
+Death Valley is one of the hottest places on Earth.
+The Rocky Mountains stretch from Canada to New Mexico.
+The Appalachian Mountains run along the eastern United States.
+The Andes are the longest mountain range in the world.
+The Alps are a major mountain range in Europe.
+The Himalayas contain the world's highest peaks.
+K2 is the second highest mountain in the world.
+Kilimanjaro is the highest mountain in Africa.
+Mount Fuji is an iconic volcano in Japan.
+Volcanoes form when magma erupts from beneath the Earth's surface.
+Earthquakes occur when tectonic plates shift suddenly.
+Tsunamis are large ocean waves caused by underwater earthquakes.
+Hurricanes are powerful tropical storms with high winds.
+Tornadoes are violent rotating columns of air.
+Lightning is an electrical discharge during thunderstorms.
+Thunder is the sound produced by lightning.
+Rain is liquid precipitation falling from clouds.
+Snow is frozen precipitation in the form of ice crystals.
+Hail consists of balls of ice that fall during storms.
+Fog is a cloud that forms near the ground.
+Dew is water droplets that form on surfaces overnight.
+Frost forms when water vapor freezes on surfaces.
+A rainbow is formed when sunlight is refracted through water droplets.
+The greenhouse effect keeps Earth warm enough for life.
+The ozone layer protects Earth from harmful ultraviolet radiation.
+Gravity is the force that attracts objects toward each other.
+Mass is the amount of matter in an object.
+Weight is the force of gravity acting on an object's mass.
+Acceleration is the rate of change of velocity.
+Velocity is speed in a specific direction.
+Momentum is the product of mass and velocity.
+Friction is the resistance to motion between surfaces.
+Inertia is the tendency of objects to resist changes in motion.
+Energy is the ability to do work.
+Kinetic energy is the energy of motion.
+Potential energy is stored energy based on position.
+Heat is the transfer of thermal energy.
+Temperature measures the average kinetic energy of particles.
+Conduction transfers heat through direct contact.
+Convection transfers heat through fluid movement.
+Radiation transfers heat through electromagnetic waves.
+Reflection occurs when light bounces off a surface.
+Refraction occurs when light bends as it passes through different materials.
+A prism separates white light into its component colors.
+The electromagnetic spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.
+Radio waves have the longest wavelengths in the electromagnetic spectrum.
+Gamma rays have the shortest wavelengths in the electromagnetic spectrum.
+Visible light is the portion of the electromagnetic spectrum humans can see.
+Infrared radiation is felt as heat.
+Ultraviolet radiation can cause sunburn.
+X-rays are used in medical imaging.
+Atoms are the basic building blocks of matter.
+The nucleus is the center of an atom.
+Protons are positively charged particles in the nucleus.
+Neutrons are neutral particles in the nucleus.
+Electrons are negatively charged particles orbiting the nucleus.
+The atomic number is the number of protons in an atom.
+The mass number is the sum of protons and neutrons.
+Isotopes are atoms of the same element with different numbers of neutrons.
+Chemical elements are pure substances consisting of one type of atom.
+The periodic table organizes elements by atomic number.
+Hydrogen is the lightest and most abundant element in the universe.
+Helium is the second most abundant element in the universe.
+Carbon is essential for all known forms of life.
+Nitrogen makes up about 78% of Earth's atmosphere.
+Oxygen makes up about 21% of Earth's atmosphere.
+Water is composed of two hydrogen atoms and one oxygen atom.
+Carbon dioxide is composed of one carbon atom and two oxygen atoms.
+Molecules are formed when atoms bond together.
+Chemical reactions rearrange atoms to form new substances.
+Acids have a pH less than 7.
+Bases have a pH greater than 7.
+Neutral substances have a pH of 7.
+Salt is formed when an acid reacts with a base.
+Oxidation is the loss of electrons in a chemical reaction.
+Reduction is the gain of electrons in a chemical reaction.
+Combustion is a chemical reaction that produces heat and light.
+Photosynthesis converts carbon dioxide and water into glucose and oxygen.
+Respiration converts glucose and oxygen into carbon dioxide and water.
+Fermentation is a process that produces energy without oxygen.
+Evaporation is the change from liquid to gas.
+Condensation is the change from gas to liquid.
+Freezing is the change from liquid to solid.
+Melting is the change from solid to liquid.
+Sublimation is the change from solid directly to gas.
+Matter exists in three main states: solid, liquid, and gas.
+Plasma is a fourth state of matter consisting of ionized gas.
+Density is mass per unit volume.
+Pressure is force per unit area.
+Buoyancy is the upward force exerted by a fluid on an object.
+Archimedes' principle explains why objects float or sink.
+Pascal's principle states that pressure applied to a fluid is transmitted equally in all directions.
+Bernoulli's principle relates fluid speed to pressure.
+The Doppler effect causes frequency changes when a source moves relative to an observer.
+Amplitude determines the loudness of sound.
+Frequency determines the pitch of sound.
+Wavelength is the distance between consecutive wave peaks.
+Interference occurs when waves overlap.
+Resonance occurs when an object vibrates at its natural frequency.
+Simple machines make work easier by changing force or direction.
+A lever uses a fulcrum to multiply force.
+A wheel and axle reduces friction and multiplies force.
+A pulley changes the direction of force.
+An inclined plane reduces the force needed to lift objects.
+A wedge is used to split or separate objects.
+A screw is an inclined plane wrapped around a cylinder.
+Work is done when a force moves an object.
+Power is the rate at which work is done.
+Efficiency is the ratio of useful work output to energy input.
+Mechanical advantage is the factor by which a machine multiplies force.
+A magnet has north and south poles.
+Like magnetic poles repel each other.
+Opposite magnetic poles attract each other.
+Electromagnets are magnets created by electric current.
+Electric current is the flow of electric charge.
+Voltage is the electric potential difference between two points.
+Resistance opposes the flow of electric current.
+Ohm's law relates voltage, current, and resistance.
+Conductors allow electric current to flow easily.
+Insulators resist the flow of electric current.
+Semiconductors have electrical properties between conductors and insulators.
+Circuits are closed paths through which electric current flows.
+Series circuits have components connected end-to-end.
+Parallel circuits have components connected across common points.
+Capacitors store electrical energy.
+Transistors amplify or switch electronic signals.
+Diodes allow current to flow in only one direction.
+LEDs are light-emitting diodes.
+The metric system is a decimal system of measurement.
+A meter is the base unit of length in the metric system.
+A kilogram is the base unit of mass in the metric system.
+A liter is a unit of volume in the metric system.
+A second is the base unit of time.
+An hour contains 60 minutes.
+A day has 24 hours.
+A week has 7 days.
+A year has 12 months.
+A leap year has 366 days instead of 365.
+January has 31 days.
+February has 28 days in common years and 29 in leap years.
+March has 31 days.
+April has 30 days.
+May has 31 days.
+June has 30 days.
+July has 31 days.
+August has 31 days.
+September has 30 days.
+October has 31 days.
+November has 30 days.
+December has 31 days.
+Spring is the season between winter and summer.
+Summer is the warmest season of the year.
+Autumn is the season between summer and winter.
+Winter is the coldest season of the year.
+The equator is an imaginary line dividing Earth into northern and southern hemispheres.
+The prime meridian is an imaginary line dividing Earth into eastern and western hemispheres.
+Latitude measures distance north or south of the equator.
+Longitude measures distance east or west of the prime meridian.
+Time zones divide the world into regions with the same standard time.
+Greenwich Mean Time is the time at the prime meridian.
+The International Date Line is where the date changes by one day.
+Continents are large landmasses on Earth.
+There are seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.
+Asia is the largest continent by area and population.
+Australia is the smallest continent.
+The Northern Hemisphere is the half of Earth north of the equator.
+The Southern Hemisphere is the half of Earth south of the equator.
+The tropics are the region near the equator between the Tropic of Cancer and Tropic of Capricorn.
+The Arctic Circle marks the southern limit of the polar day and polar night.
+The Antarctic Circle marks the northern limit of the polar day and polar night.
+Deserts receive very little precipitation.
+Rainforests receive abundant rainfall and have high biodiversity.
+Grasslands are dominated by grasses rather than trees.
+Tundra is a cold biome with frozen subsoil.
+Taiga is a cold forest biome with coniferous trees.
+Wetlands are areas where water covers the soil for part or all of the year.
+Estuaries are where rivers meet the sea.
+Mangroves are trees that grow in coastal saltwater environments.
+English is a Germanic language.
+Spanish is a Romance language derived from Latin.
+French is a Romance language spoken in France and many other countries.
+German is spoken primarily in Germany, Austria, and Switzerland.
+Italian is a Romance language spoken in Italy.
+Portuguese is spoken in Portugal and Brazil.
+Russian uses the Cyrillic alphabet.
+Arabic is written from right to left.
+Chinese is a tonal language with thousands of characters.
+Japanese uses three writing systems: hiragana, katakana, and kanji.
+Hindi is widely spoken in India.
+Korean has its own unique alphabet called Hangul.
+Swahili is widely spoken in East Africa.
+Turkish is spoken in Turkey and parts of Europe.
+Dutch is spoken in the Netherlands and Belgium.
+Swedish is spoken in Sweden and parts of Finland.
+Greek has one of the longest documented histories of any language.
+Hebrew is an ancient language that was revived as a modern language.
+Sanskrit is an ancient language of India.
+Latin is a dead language but the ancestor of Romance languages.
+Esperanto is a constructed international auxiliary language.
+Sign languages are visual languages used by deaf communities.
+Braille is a tactile writing system for the blind.
+Morse code uses dots and dashes to represent letters.
+Vowels are speech sounds made without obstruction.
+Consonants are speech sounds made with partial or complete obstruction.
+A sentence is a grammatical unit expressing a complete thought.
+A noun is a word that names a person, place, thing, or idea.
+A verb is a word that expresses an action or state of being.
+An adjective describes a noun.
+An adverb modifies a verb, adjective, or other adverb.
+A pronoun replaces a noun.
+A preposition shows the relationship between a noun and another word.
+A conjunction connects words, phrases, or clauses.
+An interjection expresses emotion.
+Subject and verb must agree in number.
+The alphabet has 26 letters in English.
+A synonym is a word with a similar meaning.
+An antonym is a word with an opposite meaning.
+A homonym is a word that sounds like another but has a different meaning.
+Metaphors compare two unlike things by stating one is the other.
+Similes compare two unlike things using like or as.
+Alliteration is the repetition of initial consonant sounds.
+Onomatopoeia is when words imitate sounds.
+Hyperbole is exaggeration for effect.
+Irony is when the opposite of what is expected occurs.
+A haiku is a Japanese poem with three lines of 5-7-5 syllables.
+A sonnet is a 14-line poem with a specific rhyme scheme.
+Free verse poetry does not follow regular rhyme or meter.
+Fiction is literature based on imagination rather than fact.
+Nonfiction is literature based on facts and real events.
+Biography tells the story of a person's life.
+Autobiography is a biography written by the subject.
+A novel is a long fictional prose narrative.
+A short story is a brief fictional prose narrative.
+Drama is literature meant to be performed.
+Comedy aims to amuse and often has a happy ending.
+Tragedy depicts serious events and often ends unhappily.
+A protagonist is the main character in a story.
+An antagonist opposes the protagonist.
+Setting is where and when a story takes place.
+Plot is the sequence of events in a story.
+Theme is the central idea or message of a work.
+Symbolism uses objects to represent abstract ideas.
+Foreshadowing hints at events that will occur later.
+A flashback interrupts the chronological sequence to show earlier events.
+Point of view is the perspective from which a story is told.
+First-person narration uses I and we.
+Third-person narration uses he, she, and they.
+Omniscient narration knows the thoughts of all characters.
+Limited narration knows the thoughts of only one character.
+Dialogue is conversation between characters.
+Monologue is a long speech by one character.
+A stanza is a group of lines in a poem.
+Rhyme is the repetition of similar sounds at the ends of words.
+Meter is the rhythmic pattern of syllables in poetry.
+Imagery uses descriptive language to create mental pictures.
+Personification gives human qualities to nonhuman things.
+An idiom is a phrase whose meaning differs from the literal meaning.
+A cliché is an overused expression.
+Tone is the author's attitude toward the subject.
+Mood is the emotional atmosphere of a work.
+Suspense creates tension and uncertainty about what will happen.
+Conflict is the struggle between opposing forces in a story.
+Resolution is how the conflict is settled.
+The climax is the turning point of highest intensity in a story.
+The exposition introduces characters and setting.
+Rising action builds toward the climax.
+Falling action occurs after the climax.
+The conclusion wraps up the story.
+Copyright protects original works of authorship.
+Plagiarism is using someone else's work without credit.
+A bibliography lists sources used in research.
+An essay is a short piece of writing on a specific topic.
+A thesis statement presents the main argument of an essay.
+An introduction presents the topic and thesis.
+Body paragraphs develop the main points.
+A conclusion summarizes and reinforces the thesis.
+A topic sentence states the main idea of a paragraph.
+Supporting details provide evidence for the topic sentence.
+Transitions connect ideas between sentences and paragraphs.
+A rough draft is an initial version of a piece of writing.
+Revision involves making changes to improve content and organization.
+Editing corrects grammar, spelling, and punctuation errors.
+Proofreading is the final check before publishing.
+A comma separates items in a list or clauses in a sentence.
+A period ends a declarative sentence.
+A question mark ends an interrogative sentence.
+An exclamation point shows strong emotion.
+A semicolon connects closely related independent clauses.
+A colon introduces a list or explanation.
+Quotation marks enclose direct speech or quotations.
+An apostrophe shows possession or contraction.
+A hyphen joins words or separates syllables.
+A dash sets off information or shows interruption.
+Parentheses enclose supplementary information.
+Brackets indicate editorial changes within a quotation.
+An ellipsis shows omitted words or trailing off.
+Capitalization marks the beginning of sentences and proper nouns.
+Proper nouns name specific people, places, or things.
+Common nouns name general people, places, or things.
+Abstract nouns name ideas or concepts.
+Concrete nouns name things perceptible to the senses.
+Collective nouns name groups.
+Singular nouns refer to one person, place, or thing.
+Plural nouns refer to more than one.
+Possessive nouns show ownership.
+Regular verbs form past tense by adding -ed.
+Irregular verbs have unique past tense forms.
+Action verbs express physical or mental actions.
+Linking verbs connect the subject to a description.
+Helping verbs work with main verbs to show tense or mood.
+Present tense describes current actions or states.
+Past tense describes completed actions or states.
+Future tense describes actions or states that will occur.
+Active voice shows the subject performing the action.
+Passive voice shows the subject receiving the action.
+An infinitive is the base form of a verb preceded by to.
+A gerund is a verb form ending in -ing used as a noun.
+A participle is a verb form used as an adjective.
+Comparative adjectives compare two things.
+Superlative adjectives compare three or more things.
+Demonstrative pronouns point to specific things.
+Personal pronouns refer to specific people or things.
+Possessive pronouns show ownership.
+Reflexive pronouns end in -self or -selves.
+Indefinite pronouns refer to nonspecific people or things.
+Relative pronouns introduce dependent clauses.
+Coordinating conjunctions connect equal elements.
+Subordinating conjunctions introduce dependent clauses.
+An independent clause can stand alone as a sentence.
+A dependent clause cannot stand alone.
+A simple sentence has one independent clause.
+A compound sentence has two or more independent clauses.
+A complex sentence has one independent and at least one dependent clause.
+A compound-complex sentence has multiple independent clauses and at least one dependent clause.
+Grammar is the system and structure of a language.
+Syntax is the arrangement of words to form sentences.
+Semantics is the study of meaning in language.
+Phonetics studies the sounds of speech.
+Morphology studies word structure and formation.
+Etymology studies word origins and history.
+Linguistics is the scientific study of language.
+Rhetoric is the art of persuasive speaking or writing.
+Logic is the study of valid reasoning.
+Critical thinking involves analyzing and evaluating information objectively.
+Problem-solving is the process of finding solutions to difficult issues.
+Creativity is the ability to generate original ideas.
+Innovation introduces new methods or ideas.
+Collaboration is working together toward a common goal.
+Communication is the exchange of information.
+Empathy is understanding and sharing the feelings of others.
+Integrity is adhering to moral principles.
+Responsibility is being accountable for one's actions.
+Perseverance is continuing despite difficulties.
+Adaptability is adjusting to new conditions.
+Leadership is guiding and influencing others.
+Teamwork is cooperative effort by a group.
+Respect is showing consideration for others.
+Honesty is telling the truth.
+Kindness is being friendly and considerate.
+Courage is facing fear or difficulty with bravery.
+Patience is tolerating delay without frustration.
+Gratitude is appreciation for what one has.
+Humility is modest view of one's importance.
+Wisdom is good judgment based on knowledge and experience.

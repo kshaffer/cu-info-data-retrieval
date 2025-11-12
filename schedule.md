@@ -569,7 +569,7 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### In class
 
-- More on vector databases and vector embeddings.
+- More on vector databases and vector embeddings with [VectorDBs_Sentence_Embeddings.ipynb](Colab/VectorDBs_Sentence_Embeddings.ipynb) and [VectorDBs_Sentence_Embeddings_pt2.ipynb](Colab/VectorDBs_Sentence_Embeddings_pt2.ipynb).
 
 
 <br/>

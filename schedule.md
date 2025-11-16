@@ -582,7 +582,8 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### In class
 
-- TBA
+- Introduction to Ollama (local AI chatbot) with [Ollama test.ipynb](Colab/Ollama%20test.ipynb).
+- Connecting Ollama to your vector database.
 
 
 <br/>
@@ -591,11 +592,17 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- Make sure you have all installation issues worked out and can run all cells in the VectorDB notebooks so far. (Exception: if you have issues with ChromaDB, you can ignore/slip those.)
+
+#### Required reading
+
+- 
 
 ### In class
 
-- TBA
+- Introducing the final project (local RAG app — an AI chatbot based on a custom vector database).
+- Sentence tokenization (splitting documents into sentences).
+- Final project workshop time. 
 
 
 <br/>
@@ -604,11 +611,17 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- Begin work on your final project.
+- Submit [VectorDBs_Sentence_Embeddings.ipynb](Colab/VectorDBs_Sentence_Embeddings.ipynb),  [VectorDBs_Sentence_Embeddings_pt2.ipynb](Colab/VectorDBs_Sentence_Embeddings_pt2.ipynb), and [Ollama test.ipynb](Colab/Ollama%20test.ipynb) to Canvas. These are easy points, as the code was already provided to you, but _you will receive credit only if you show that all packages and external tools are installed and working properly._
+
+#### Required reading
+
+- 
 
 ### In class
 
-- TBA
+- Hybrid queries.
+- Final project workshop time.
 
 
 <br/>
@@ -617,9 +630,9 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- TBA
+- Continue work on your final project.
 
 ### In class
 
-- TBA
+- Final project workshop time.
 

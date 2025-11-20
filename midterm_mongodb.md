@@ -13,7 +13,7 @@ Like Midterm 1, you won't be asked simply to write code or build a database. You
 
 Project: Build a social-media scraper in Python, store the post data in a local MongoDB instance, use Pymongo to access the data from a Jupyter notebook, and leverage Python tools like Pandas, matplotlib, seaborn, plotly, or your other favorite tools to perform analysis and make visualizations that communicate insights from your data. Use AI to test its functionality and the completeness of the assignment. Then make a 5-minute-max video demonstrating its functionality and explaining your main analytical findings.
 
-The project should include the following 
+The project should include the following.
 
 ### Features
 

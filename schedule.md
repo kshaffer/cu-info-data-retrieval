@@ -594,13 +594,11 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 - Make sure you have all installation issues worked out and can run all cells in the VectorDB notebooks so far. (Exception: if you have issues with ChromaDB, you can ignore/slip those.)
 
-#### Required reading
-
-- 
 
 ### In class
 
-- Introducing the final project (local RAG app — an AI chatbot based on a custom vector database).
+- FCQs
+- Introducing the [final project](final_project.md) (local RAG app — an AI chatbot based on a custom vector database).
 - Sentence tokenization (splitting documents into sentences).
 - Final project workshop time. 
 
@@ -611,12 +609,9 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 ### Prep
 
-- Begin work on your final project.
+- Begin work on your [final project](final_project.md).
 - Submit [VectorDBs_Sentence_Embeddings.ipynb](Colab/VectorDBs_Sentence_Embeddings.ipynb),  [VectorDBs_Sentence_Embeddings_pt2.ipynb](Colab/VectorDBs_Sentence_Embeddings_pt2.ipynb), and [Ollama test.ipynb](Colab/Ollama%20test.ipynb) to Canvas. These are easy points, as the code was already provided to you, but _you will receive credit only if you show that all packages and external tools are installed and working properly._
 
-#### Required reading
-
-- 
 
 ### In class
 
@@ -636,3 +631,7 @@ _NOTE: There is more information in the reading this weekend, especially towards
 
 - Final project workshop time.
 
+
+## Finals week: Wednesday, December 10
+
+**_Submit your final project to Canvas by 4pm._**
